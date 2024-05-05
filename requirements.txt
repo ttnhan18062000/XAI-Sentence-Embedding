@@ -1,0 +1,12 @@
+umap-learn
+sentence-transformers
+torch
+numpy
+pandas
+nltk
+transformers
+tqdm
+scikit-learn
+plotly
+shap
+matplotlib
