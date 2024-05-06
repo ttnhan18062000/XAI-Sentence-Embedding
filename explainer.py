@@ -116,7 +116,7 @@ def batch_replace_masks(sentences, max_k=5, excludes_list=None):
 
 
 def batch_mask_sentences(
-    features_dict, feature_name, no_mask_features, n_masks, n_samples
+    features_dict, feature_name, no_mask_features, n_max_masks, n_samples
 ):
     # Initialize lists to store results
     exclude_sentences = []
@@ -125,41 +125,44 @@ def batch_mask_sentences(
     include_ignores = []
 
     # Iterate through each desired number of masks
-    for n_mask in n_masks:
-        for _ in range(n_samples):  # Generate samples
-            # Initialize lists for this sample
-            exclude_sent = []
-            include_sent = []
-            exclude_ign = []
-            include_ign = []
+    # for n_mask in n_masks:
+    for _ in range(n_samples):  # Generate samples
+        # Random number of masks
+        n_mask = random.randint(1, n_max_masks)
 
-            # Choose random features to mask
-            masked_features = [
-                feature
-                for feature in features_dict.keys()
-                if feature != feature_name and feature not in no_mask_features
-            ]
-            random_masked_features = random.sample(masked_features, n_mask)
+        # Initialize lists for this sample
+        exclude_sent = []
+        include_sent = []
+        exclude_ign = []
+        include_ign = []
 
-            # Process each feature in the input dictionary
-            for feature, word in features_dict.items():
-                if feature == feature_name:  # Keep the target feature intact
-                    include_sent.append(word)
-                    exclude_sent.append("")
-                elif feature in random_masked_features:  # Mask selected features
-                    exclude_sent.append("[MASK]")
-                    exclude_ign.append(word)
-                    include_sent.append("[MASK]")
-                    include_ign.append(word)
-                else:  # Keep other features intact
-                    exclude_sent.append(word)
-                    include_sent.append(word)
+        # Choose random features to mask
+        masked_features = [
+            feature
+            for feature in features_dict.keys()
+            if feature != feature_name and feature not in no_mask_features
+        ]
+        random_masked_features = random.sample(masked_features, n_mask)
 
-            # Append results for this sample to respective lists
-            exclude_sentences.append(exclude_sent)
-            include_sentences.append(include_sent)
-            exclude_ignores.append(exclude_ign)
-            include_ignores.append(include_ign)
+        # Process each feature in the input dictionary
+        for feature, word in features_dict.items():
+            if feature == feature_name:  # Keep the target feature intact
+                include_sent.append(word)
+                exclude_sent.append("")
+            elif feature in random_masked_features:  # Mask selected features
+                exclude_sent.append("[MASK]")
+                exclude_ign.append(word)
+                include_sent.append("[MASK]")
+                include_ign.append(word)
+            else:  # Keep other features intact
+                exclude_sent.append(word)
+                include_sent.append(word)
+
+        # Append results for this sample to respective lists
+        exclude_sentences.append(exclude_sent)
+        include_sentences.append(include_sent)
+        exclude_ignores.append(exclude_ign)
+        include_ignores.append(include_ign)
 
     # Construct and return the result dictionary
     result = {
@@ -217,7 +220,7 @@ def get_shap_value(
         features_dict=features_dict,
         feature_name=f_name,
         no_mask_features=no_mask_features,
-        n_masks=range(1, 1 + n_max_masks),
+        n_max_masks=n_max_masks,
         n_samples=n_samples,
     )
 
@@ -249,7 +252,6 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None):
     features_dict = {k: v[0] for k, v in features_dict.items()}
 
     # Determine number of features and maximum masks
-    n_features = len(features_dict.keys())
     n_max_masks = int(s2len * 0.5)
     no_mask_features = list(features_dict.keys())[:s1len]
 
