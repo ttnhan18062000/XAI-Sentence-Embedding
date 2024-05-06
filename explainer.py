@@ -106,7 +106,9 @@ def batch_replace_masks(sentences, max_k=5, excludes_list=None):
                 results.append(new_sentence[:-1].replace(" ##", ""))
                 predicted_words_list.append(predicted_words)
                 predicted_weights_list.append(predicted_weights)
-                k += 1
+            else:
+                top_k += 1
+            k += 1
     return results, predicted_words_list, predicted_weights_list
 
 
