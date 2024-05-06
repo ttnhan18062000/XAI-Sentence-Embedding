@@ -1,4 +1,5 @@
 from nltk.tokenize import word_tokenize
+import nltk
 import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -12,6 +13,8 @@ import umap
 import matplotlib.pyplot as plt
 
 from utils import build_feature, encode, _tokenize_sent
+
+nltk.download('punkt')
 
 # Check and set device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -293,7 +296,7 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None):
     return shap_values
 
 
-def get_word_contributions(model, sentence1, sentence2):
+def get_word_contributions(sentence1, sentence2):
     sentence1_copy = copy.deepcopy(sentence1)
     sentence2_copy = copy.deepcopy(sentence2)
 
