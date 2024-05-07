@@ -20,8 +20,8 @@ nltk.download('punkt')
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load pre-trained models
-masked_model = BertForMaskedLM.from_pretrained("bert-base-cased").to(device)
-tokenizer = BertTokenizer.from_pretrained("bert-base-cased")
+masked_model = BertForMaskedLM.from_pretrained("bert-large-cased").to(device)
+tokenizer = BertTokenizer.from_pretrained("bert-large-cased")
 w_tokenizer = word_tokenize
 
 # Choose appropriate SentenceTransformer model based on device availability
@@ -297,7 +297,7 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None, multi_wo
 
     if vis:
         visualize_embeddings(sen_embeddings, labels, texts)
-    with open("generated_strings.txt", "w",  encoding="utf-8") as f:
+    with open("generated_strings1.txt", "w",  encoding="utf-8") as f:
         for generated_string in generated_strings:
             f.writelines(generated_string + "\n")
     return shap_values
