@@ -31,6 +31,8 @@ if torch.cuda.is_available():
 else:
     model = SentenceTransformer(model_name)
 
+generated_strings = []
+
 
 def batch_replace_masks(sentences, max_k=5, excludes_list=None):
     # Tokenize sentences
@@ -192,6 +194,7 @@ def get_sim_scores(sent_pairs, ignores, s1len):
         replaced_s2l, _, _ = batch_replace_masks(s2l, max_k=1, excludes_list=ignores)
         replaced_s1_list.extend(replaced_s1l)
         replaced_s2_list.extend(replaced_s2l)
+    generated_strings.extend(replaced_s2_list)
 
     # Generate masked model inputs
     masked_model_inputs = [
@@ -245,9 +248,9 @@ def get_shap_value(
     return shap_value, ex_embeds_dict["s2_embeds"], in_embeds_dict["s2_embeds"]
 
 
-def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None):
+def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None, multi_word_tokens=None):
     # Build feature dictionary and get lengths
-    df_features, s1len, s2len = build_feature(s1, s2)
+    df_features, s1len, s2len = build_feature(s1, s2, multi_word_tokens=multi_word_tokens)
     features_dict = df_features.to_dict()
     features_dict = {k: v[0] for k, v in features_dict.items()}
 
@@ -294,7 +297,9 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None):
 
     if vis:
         visualize_embeddings(sen_embeddings, labels, texts)
-
+    with open("generated_strings.txt", "w",  encoding="utf-8") as f:
+        for generated_string in generated_strings:
+            f.writelines(generated_string + "\n")
     return shap_values
 
 

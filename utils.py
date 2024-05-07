@@ -36,10 +36,31 @@ def _tokenize_sent(sentence):
     return tokens
 
 
+def group_multiwords(lst, multiwords):
+    result = []
+    i = 0
+    while i < len(lst):
+        found_multiword = False
+        for mw in multiwords:
+            mw_lst = mw.split()
+            if lst[i:i+len(mw_lst)] == mw_lst:
+                result.append(mw)
+                i += len(mw_lst)
+                found_multiword = True
+                break
+        if not found_multiword:
+            result.append(lst[i])
+            i += 1
+    return result
+
+
 # Build features for given sentence pair
-def build_feature(sent1, sent2):
+def build_feature(sent1, sent2, multi_word_tokens=None):
     tokens1 = _tokenize_sent(sent1)
     tokens2 = _tokenize_sent(sent2)
+    if multi_word_tokens:
+        tokens1 = group_multiwords(tokens1, multi_word_tokens)
+        tokens2 = group_multiwords(tokens2, multi_word_tokens)
     s1len = len(tokens1)
     s2len = len(tokens2)
 

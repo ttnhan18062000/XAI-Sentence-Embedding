@@ -10,3 +10,5 @@ scikit-learn
 plotly
 shap
 matplotlib
+gensim
+scipy<1.13.0
