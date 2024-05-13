@@ -9,7 +9,7 @@ w_tokenizer = word_tokenize
 tokenizer = BertTokenizer.from_pretrained("bert-base-cased")
 
 # Function to encode sentence pairs
-def encode(model, sent_pairs):
+def encode(model, sent_pairs, metric="cosine"):
     all_sents = [
         sent for pair in sent_pairs for sent in pair
     ]  # Flatten list of sentence pairs
@@ -21,8 +21,10 @@ def encode(model, sent_pairs):
     for i in range(len(sent_pairs)):
         s1_embeds.append(embds[2 * i])
         s2_embeds.append(embds[2 * i + 1])
-        scores.append(float(util.pytorch_cos_sim(embds[2 * i], embds[2 * i + 1])[0][0]))
-
+        if metric == "cosine":
+            scores.append(float(util.pytorch_cos_sim(embds[2 * i], embds[2 * i + 1])[0][0]))
+        elif metric == "euclid":
+            scores.append(np.linalg.norm(embds[2 * i] - embds[2 * i + 1]))
     return np.array(scores), s1_embeds, s2_embeds
 
 

@@ -176,7 +176,7 @@ def batch_mask_sentences(
     return result
 
 
-def get_sim_scores(sent_pairs, ignores, s1len):
+def get_sim_scores(sent_pairs, ignores, s1len, metric="cosine"):
     # Generate lists for sentence pairs split by s1len
     s1_list = [" ".join(sent_pair[:s1len]) for sent_pair in sent_pairs]
     s2_list = [" ".join(sent_pair[s1len:]) for sent_pair in sent_pairs]
@@ -202,7 +202,7 @@ def get_sim_scores(sent_pairs, ignores, s1len):
     ]
 
     # Encode sentences to get scores and embeddings
-    scores, s1_embeds, s2_embeds = encode(model, masked_model_inputs)
+    scores, s1_embeds, s2_embeds = encode(model, masked_model_inputs, metric=metric)
 
     # Create dictionary for embeddings
     embeds_dict = {
@@ -216,7 +216,7 @@ def get_sim_scores(sent_pairs, ignores, s1len):
 
 
 def get_shap_value(
-    features_dict, f_name, no_mask_features, n_max_masks, n_samples, s1len, vis=False
+    features_dict, f_name, no_mask_features, n_max_masks, n_samples, s1len, metric="cosine", vis=False
 ):
     # Batch mask sentences
     masked_sentences = batch_mask_sentences(
@@ -232,11 +232,13 @@ def get_shap_value(
         sent_pairs=masked_sentences["exclude_sent"],
         ignores=masked_sentences["exclude_ign"],
         s1len=s1len,
+        metric=metric,
     )
     include_scores, in_embeds_dict = get_sim_scores(
         sent_pairs=masked_sentences["include_sent"],
         ignores=masked_sentences["include_ign"],
         s1len=s1len,
+        metric=metric,
     )
 
     # Calculate average scores
@@ -248,7 +250,7 @@ def get_shap_value(
     return shap_value, ex_embeds_dict["s2_embeds"], in_embeds_dict["s2_embeds"]
 
 
-def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None, multi_word_tokens=None):
+def get_shap_values(s1, s2, n_samples, metric="cosine", vis=False, specified_words=None, multi_word_tokens=None):
     # Build feature dictionary and get lengths
     df_features, s1len, s2len = build_feature(s1, s2, multi_word_tokens=multi_word_tokens)
     features_dict = df_features.to_dict()
@@ -280,6 +282,7 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None, multi_wo
             n_max_masks=n_max_masks,
             n_samples=n_samples,
             s1len=s1len,
+            metric=metric,
             vis=False,
         )
         shap_values[f"{f_name}_{features_dict[f_name]}"] = shap_value
@@ -303,7 +306,7 @@ def get_shap_values(s1, s2, n_samples, vis=False, specified_words=None, multi_wo
     return shap_values
 
 
-def get_word_contributions(sentence1, sentence2):
+def get_word_contributions(sentence1, sentence2, metric="cosine"):
     sentence1_copy = copy.deepcopy(sentence1)
     sentence2_copy = copy.deepcopy(sentence2)
 
@@ -325,8 +328,8 @@ def get_word_contributions(sentence1, sentence2):
         include_r_s1 = " ".join(list(features_dict.values())[:s1_len])
         include_r_s2 = " ".join(list(features_dict.values())[s1_len:])
         includes.append([include_r_s1, include_r_s2])
-    include_scores, s1_embeds, s2_embeds = encode(model, includes)
-    exclude_scores, s1_embeds, s2_embeds = encode(model, excludes)
+    include_scores, s1_embeds, s2_embeds = encode(model, includes, metric=metric)
+    exclude_scores, s1_embeds, s2_embeds = encode(model, excludes, metric=metric)
     differences = [
         include_score - exclude_score
         for include_score, exclude_score in zip(include_scores, exclude_scores)

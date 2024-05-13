@@ -10,7 +10,8 @@ Since deep learning and machine learning tend to be used interchangeably, it’s
 """.lower()
 specified_words = ["machine learning"]
 multi_word_tokens = ["machine learning", "deep learning", "neural networks", "supervised learning", "artificial intelligence"]
-shap_values = get_shap_values(
-    s1, s2, n_samples=10, vis=False, specified_words=specified_words, multi_word_tokens=multi_word_tokens
-)
+# shap_values = get_shap_values(
+#     s1, s2, n_samples=10, metric="euclids", vis=False, specified_words=None, multi_word_tokens=None
+# )
+shap_values = get_word_contributions(s1, s2, metric="euclid")
 plot_contributions(shap_values)
