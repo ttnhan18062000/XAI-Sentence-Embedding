@@ -319,7 +319,7 @@ def get_word_contributions(sentence1, sentence2, metric="cosine"):
     contributions = {}
     includes = []
     excludes = []
-    for feature_name in tqdm(feature_names):
+    for feature_name in feature_names:
         exclude_r_s1 = " ".join(list(features_dict.values())[:s1_len])
         exclude_r_s2 = " ".join(
             [w for k, w in list(features_dict.items())[s1_len:] if k != feature_name]
