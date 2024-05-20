@@ -12,7 +12,7 @@ import plotly.express as px
 import umap
 import matplotlib.pyplot as plt
 
-from utils import build_feature, encode, _tokenize_sent
+from utils import build_feature, encode, _tokenize_sent, generate_unique_random_subsets
 
 nltk.download('punkt')
 
@@ -118,7 +118,7 @@ def batch_replace_masks(sentences, max_k=5, excludes_list=None):
 
 
 def batch_mask_sentences(
-    features_dict, feature_name, no_mask_features, n_max_masks, n_samples
+    features_dict, feature_name, no_mask_features, n_max_masks, n_samples, main_mask_token, sub_mask_token
 ):
     # Initialize lists to store results
     exclude_sentences = []
@@ -126,35 +126,32 @@ def batch_mask_sentences(
     exclude_ignores = []
     include_ignores = []
 
+    # Generate list of masked sentences
+    masked_features = [
+        feature
+        for feature in features_dict.keys()
+        if feature != feature_name and feature not in no_mask_features
+    ]
+    random_masked_features_list = generate_unique_random_subsets(masked_features, n_samples, n_max_masks)
+
     # Iterate through each desired number of masks
     # for n_mask in n_masks:
-    for _ in range(n_samples):  # Generate samples
-        # Random number of masks
-        n_mask = random.randint(1, n_max_masks)
-
+    for random_masked_features in random_masked_features_list:  # Generate samples
         # Initialize lists for this sample
         exclude_sent = []
         include_sent = []
         exclude_ign = []
         include_ign = []
 
-        # Choose random features to mask
-        masked_features = [
-            feature
-            for feature in features_dict.keys()
-            if feature != feature_name and feature not in no_mask_features
-        ]
-        random_masked_features = random.sample(masked_features, n_mask)
-
         # Process each feature in the input dictionary
         for feature, word in features_dict.items():
             if feature == feature_name:  # Keep the target feature intact
                 include_sent.append(word)
-                exclude_sent.append("")
+                exclude_sent.append(main_mask_token)
             elif feature in random_masked_features:  # Mask selected features
-                exclude_sent.append("[MASK]")
+                exclude_sent.append(sub_mask_token)
                 exclude_ign.append(word)
-                include_sent.append("[MASK]")
+                include_sent.append(sub_mask_token)
                 include_ign.append(word)
             else:  # Keep other features intact
                 exclude_sent.append(word)
@@ -216,7 +213,7 @@ def get_sim_scores(sent_pairs, ignores, s1len, metric="cosine"):
 
 
 def get_shap_value(
-    features_dict, f_name, no_mask_features, n_max_masks, n_samples, s1len, metric="cosine", vis=False
+    features_dict, f_name, no_mask_features, n_max_masks, n_samples, s1len, main_mask_token, sub_mask_token, metric="cosine", vis=False
 ):
     # Batch mask sentences
     masked_sentences = batch_mask_sentences(
@@ -225,6 +222,8 @@ def get_shap_value(
         no_mask_features=no_mask_features,
         n_max_masks=n_max_masks,
         n_samples=n_samples,
+        main_mask_token=main_mask_token,
+        sub_mask_token=sub_mask_token,
     )
 
     # Get similarity scores for both include and exclude sentences
@@ -250,7 +249,18 @@ def get_shap_value(
     return shap_value, ex_embeds_dict["s2_embeds"], in_embeds_dict["s2_embeds"]
 
 
-def get_shap_values(s1, s2, n_samples, metric="cosine", vis=False, specified_words=None, multi_word_tokens=None):
+def get_shap_values(s1, s2, n_samples, main_mask_token, sub_mask_token, metric="cosine", vis=False, specified_words=None, multi_word_tokens=None):
+    """
+    s1: first sentence
+    s2: second sentence, the sentence will be calculated
+    n_samples: number of masked sentence generated
+    main_mask_token: token used for replacing the main feature when calculating contribution, [MASK] will be replaced using masked language models
+    sub_mask_token: token used for replacing the randomize masked features when calculating contribution, [MASK] will be replaced using masked language models
+    metric: "cosine", "euclid", metric for evaluating similarity
+    vis: visualize the contributions
+    specified_words: Some target specific features to evaluate contributions; leave as None to evaluate the entire s2
+    multi_word_tokens: grouped features as single token
+    """
     # Build feature dictionary and get lengths
     df_features, s1len, s2len = build_feature(s1, s2, multi_word_tokens=multi_word_tokens)
     features_dict = df_features.to_dict()
@@ -282,6 +292,8 @@ def get_shap_values(s1, s2, n_samples, metric="cosine", vis=False, specified_wor
             n_max_masks=n_max_masks,
             n_samples=n_samples,
             s1len=s1len,
+            main_mask_token=main_mask_token, 
+            sub_mask_token=sub_mask_token,
             metric=metric,
             vis=False,
         )

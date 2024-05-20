@@ -4,6 +4,8 @@ import pandas as pd
 from nltk.tokenize import word_tokenize
 from transformers import BertTokenizer
 from sentence_transformers import util
+import random
+from itertools import combinations
 
 w_tokenizer = word_tokenize
 tokenizer = BertTokenizer.from_pretrained("bert-base-cased")
@@ -74,3 +76,16 @@ def build_feature(sent1, sent2, multi_word_tokens=None):
 
 def tokenize(s):
     return tokenizer.tokenize(s)
+
+def generate_random_subset(s, max_n):
+    # Generate a random subset from the set s
+    subset_size = random.randint(1, max_n)
+    subset = set(random.sample(s, subset_size))
+    return frozenset(subset)
+
+def generate_unique_random_subsets(original_set, num_subsets, max_n):
+    unique_subsets = set()
+    while len(unique_subsets) < num_subsets:
+        subset = generate_random_subset(original_set, max_n)
+        unique_subsets.add(subset)
+    return [set(subset) for subset in unique_subsets]

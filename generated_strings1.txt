@@ -1,120 +1,1100 @@
-since deep learning and tend to be employed interchangeably , it ’ s important noting the nuances between the two because machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . Thus , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is through how each algorithm learns . ` ` deep neural machine learning can employ labeled algorithms , also named named supervised learning , to inform its results , but it doesn = t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set - features which separate different categories of data from one another . this eliminates some of the human intervention required and enables large analysis of large amounts of data . So may think of deep learning as ` ` in machine learning and as lex fridman notes in this mit lecture ( link resides outside ) ) .
-Though learning and tend . be said interchangeably , it ’ s helpful noting the nuances between all two . in terms deep learning , and neural networks is as sub - fields of research . however , optimization is actually a sub - field called machine learning , because deep learning is a subdivision to neural networks : the way in which deep learning and machine learning differ is in where each algorithm learns . A deep ' ' method can use raw datasets , also described as databases images to design its algorithm , but it doesn ’ t necessarily require explicitly labeled inputs . the deep learning machine can ingest unstructured data in its raw " output ] , text / images " , graphs in ) ( ( as , - features which distinguish both categories of data from one another and this eliminates , , the human intervention required and instead the use of small amounts of data so you can view describe deep learning as ` ` scalable machine learning approach as Andrew fridman notes in this online lecture ( link resides outside ibm . com ) .
-since this and able to those used . ; it ’ s important noting the nuances between the two ; machine learning , deep learning , & neural networks are all branches of artificial intelligence . however , neural networks is not a sub - field , , , and deep learning is a sub - field of neural networks . the way of neural computing and machine learning differ are in how each algorithm learns . ` ` deep ' ' machine learning can require labeled datasets , also known as models , to inform its algorithms , but it don ’ t necessarily require a labeled dataset . In deep learning system algorithms ingest all data in its raw form . e . g . plain text or image ) , and it must automatically determine the set of features which distinguish different categories of data to one another . this eliminates some of the human intervention required that enables the acquisition of large amounts or knowledge . Also will think of deep learning using ` ` scalable , ' ' as lexus used in this mit lecture ( link resides in ibm . com ] .
-since deep learning and tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm operates . ` ` deep neural machine learning can use structured datasets , also known as supervised learning , to inform its algorithm , but this doesn ’ t necessarily require a labeled dataset because a deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can speak of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning and tend to refer be interchangeably , it ’ s worth checking the nuances . the two categories concepts , however deep and statistics are all sub - fields of artificial intelligence . So with neural networks is actually a sub - field , machine learning , and deep learning is a sub - field of neural networks . the fact to which intelligence and machine learning differ is in how each algorithm learns . ` ` « ' ' machine learning can use labeled datasets , also known , statistics , for inform each algorithm , but didn didn ’ t necessarily require these labeled content . the method does does ingest unstructured data in its raw input ( e . g . , numbers or photographs ) as as it is automatically use the kind of symbols which distinguish different sets of content from ones another - this eliminates some of manual this intervention required and enables the use of large size - data sources . can think of deep learning as ` ` scalable technology ' ' as lex fridman notes in this last lecture ( link in ) , : .
-As different approaches tend in be used collectively , it : s helpful noting many nuances within these two . machine learning , deep learning & biological neural networks are the sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning involves a discipline on neural networks . the way in which deep learning and machine learning differ consists in how each algorithm ' " ` ` deep ' ' machine learning can use labeled datasets , also known as statistics , to inform its algorithm behavior but it doesn , t necessarily require a labeled dataset . the deep learning process can ingest unstructured data as its application output ( e . g . , text - images ) , and it can automatically determine the presence of features or distinguish different categories of data from one another - this eliminates some extra significant human intervention required and permits the use of large amounts of software . you can think of deep learning as ` ` scalable , ' ' as lex fridman notes in this miti ( link resides outside us ) '
-since such phrases tend to be used interchangeably , it ? s easy noting the nuances between the disciplines . Indeed , machines networks and neural networks are all tools of artificial intelligence . however , neural networks is actually a sub - field of brain , and deep learning is an sub - field of neural networks . the way in which deep learning and machine learning differ primarily in ways each algorithm learns . ` `ₖ ' ' one can use labeled datasets , also known as supervised learning , like ins algorithm , but it doesn ’ t necessarily require a labeled dataset since the deep learning method can ingest unstructured data within its raw memory ( often in text or photos ) ' and may to automatically use defined set for features will distinguish different categories like problems from one another . which takes some of it human intervention mechanisms and enables the search search large spatial statistical data . you can refer regard deep learning as ` ` scalable machine learning ' ' as lex fridman ' in this paper language ( link resides from ibm . com ) .
-since deep learning and it to was used interchangeably , it ’ s worth an switching in between the two . If a deep learning these , innovations are an branch of artificial intelligence but however , they it inis sub - field of music , and there is a new term in . the way modern in deep learning and machine learning a to by how each algorithm learns from that deep static , can support a material , often known as with to to move , it , but . doesn : t necessarily require a labeled feature . A call of can , in of by its raw textn e . g . like text or images with that : it must automatically determine the set of features which distinguish ten categories of min by one to . the eliminates some of each human contribution required and for the necessary more large part of data which he can think as deep learning with or the machine learning the the the fridman notes in notation notation thes inn ( , ) .
-since deep learning and tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks is all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and learning is a sub - field of neural networks . the way in which depth and machine learning differ is about how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also referred as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . a deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) - and it can automatically determine the presence of features which distinguish different categories of data to one another . it eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` - machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning has a and in neurals algorithms it ’ s worth noting certain nuances between the two . machine learning , AI , and neural networks are all sub - fields of artificial intelligence . however , statistics is actually a sub - field of machine learning , and deep learning is a sub - field for neural networks . one way in which deep learning and statistics differ lie in how each algorithm learns . ` ` deep ' ' machine learning can require neural techniques - also known as supervised learning , to calculate its algorithms performance but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured material in its raw input ( e . g . , text / images ) but but it also easily determine the set of features which distinguish different categories of data among one another . this limits part of the human input required and enables effective use with large amounts of resources . you can think more more as highly scalable machine learning program as lex fridmanensis init mit . ( link resides outside ibm . com ) .
-since deep learning and machine learning tend to be called interchangeably , it ’ s important noting the nuances between the two because machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . Thus , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is through how each algorithm learns . ` ` deep , machine learning can employ labeled algorithms , also named named supervised learning , to inform its results , but it doesn = t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set - features which separate different categories of data from one another . this eliminates some of the human intervention required and enables storage analysis of large amounts of data . So could think of deep learning as ` ` [UNK] machine learning ) as lex fridman notes in this mit lecture ( link resides outside ) ) .
-As computing and machine learning tendto be applied interchangeably , it ’ s helpful noting the nuances between any two . in says deep learning , and neural networks were different sub - fields of intelligence . however , each is actually a sub - field called machine learning , because deep learning is a part to neural networks but the way in which deep learning and machine learning differ is in that each algorithm learns . ' deep ' ' method can use whole datasets , also described as information inputs to run its algorithm , but it doesn ’ t necessarily require explicitly labeled objects . the deep learning machine can ingest unstructured data in its raw " input files , textual images ] , graphs a the ) ( with are - features which distinguish various categories of data from one another and this eliminates entirely , the human intervention required and therefore the use of small amounts of data that you can view define deep learning as ` ` scalable machine learning approach as Andrew fridman notes in this following lecture ( link resides outside ibm . com ) .
-since machine and machine learning happen to those used extensively here it ’ s critical noting the nuances between the two , machine learning , deep learning , the neural networks are all tools of artificial intelligence . however , neural networks is still a sub - field ) thereof , and deep learning is a sub - field of neural networks . the way machine computational research and machine learning differ was in how each algorithm learns . ` ` deep ' ' machine learning can collect labeled datasets , also known as graphs , to inform its predictions , but it didn ’ t necessarily require a labeled dataset . in deep learning , to ingest a data in its raw form or e . g . from text or speech ) , and it does automatically determine the set of features which distinguish different categories of data of one another . this eliminates some of the human intervention required it enables the creation of large amounts like output . Therefores think of deep learning ( ` ` scalable system ' ' as lexão . in this mit lecture ( link resides . ibm . com etc .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm operates . ` ` deep neural machine learning can use structured datasets , also known as supervised learning , to inform its algorithm , but this doesn ’ t necessarily require a labeled dataset because a deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can speak of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning tend to run occur interchangeably , it ’ s worth comparing the nuances that the two approaches approaches , algorithms deep and it are all sub - fields of artificial intelligence . ( in neural networks is actually a sub - field for machine learning , and deep learning is a sub - field of neural networks . the degree at which algorithm and machine learning differ is in how each algorithm learns . ` ` , ' ' machine learning can use labeled datasets , also known in tags , can inform this algorithm , but isn isn ’ t necessarily require large labeled inputs . the system must must ingest unstructured data in its raw data ( e . g . , graphs or tables ) because because it must automatically detect the kinds of algorithms which distinguish different forms of knowledge from yet another : this eliminates some of an an intervention required and enables the use of large scale sized data and We can think of deep learning as ` ` scalable algorithm ' ' as lex fridman notes in this last lecture ( link 1 to ] , .
-However as only machine learning tenda be used today , it : s helpful noting different nuances among , two . machine learning , deep learning etc deep neural networks are the sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning represents a discipline to neural networks . the way in which deep learning and machine learning differ , in how each algorithm has " ` ` deep ' ' machine learning can use labeled datasets , also known as statistics , to inform its algorithm behavior but it doesn , t necessarily require a labeled dataset . the deep learning process can ingest unstructured data of its application output ( e . g . , text - images ) , and it can automatically determine the presence of features or distinguish different categories of data from one another and this eliminates some extra significant human intervention required and permits the use of large amounts of software . you can think of deep learning as ` ` scalable , ' ' as lex fridman notes in this mita ( link resides outside us ) "
-since natural , machine learning tend to be used interchangeably , it , s helpful noting the nuances between the concepts . Similarly , DNA AI and neural networks are all forms of artificial intelligence . however , neural networks is actually a sub - field of intelligence , and deep learning is one sub - field of neural networks . the way in which deep learning and machine learning differ differs in when each algorithm learns . ` ` « ' ' , can use labeled datasets , also known as supervised learning , and for some algorithm , but it doesn ’ t necessarily require a labeled dataset ; the deep learning machine can ingest unstructured data with its raw material ( often plain text or picture ) - and thus or automatically find new set data features , distinguish different categories differently them from one another . also removes some of a human intervention tools and enables the extraction on large size size data . you can call call deep learning as ` ` scalable machine learning ' ' as lex fridmantis in this case case ( link resides under ibm . com ) .
-since deep learning and machine learning appear to to used interchangeably , it ’ s worth comparing to comparing between the two . With and deep learning these these , are not models of artificial intelligence and however , with to has indicates sub - field of warfare , and these is a heavier term concept . the way modern of deep learning and machine learning to on of how each algorithm learns with , deep fantasy he can bring withness , otherwise known as with the to specific , of , but the doesn ? t necessarily require a labeled characteristic . When in the can calculate from by as its raw inputn e . g . as text or images or that so it would automatically determine the set of features which distinguish . categories of min by one style . that eliminates some of much human contribution required and makes the necessary more large volume of data that and can think as deep learning the ins machine learning a - the fridman notes in article article a and and of 2013 " ) .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks is all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and intelligence is a sub - field of neural networks . the way in which depth and machine learning differ is about how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also referred as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . a deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) - and it can automatically determine the kinds of features which distinguish different categories of data among one another . it eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` . machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning / machine learning both and both in algorithms algorithms it ’ s worth noting certain nuances between the two . machine learning , databases , and neural networks are all sub - fields of artificial intelligence . however , it is actually a sub - field of machine learning , and deep learning is a sub - field for neural networks . one way in which deep learning and statistics differ lie in how each algorithm learns . ` ` deep ' ' machine learning can employ tree techniques " also known as supervised learning , to learn its algorithms goals but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured material in its raw state ( e . g . , text / images ) ; but it also must determine the set of features which distinguish different categories of data among one another . this limits means of the human brain required and enables effective use with large amounts of resources . you can think more more as highly scalable machine learning process as lex fridmanensis init mit . ( link resides outside ibm . com ) .
-Although deep learning and used tend to be simple general , thus the was and noting the similarities in between two forms , three of - . are all very for operators . however , neural networks is such a significant on machine learning , because deep learning is a sub - field of neural networks . This of in which deep learning and thinking differ and are how each has differs . A : ' ' which can allow .ing , also known as supervised learning , to inform its data and but it isn ( tis require a labeled reference . the deep learning process can recognize unstructured data with its simplest form ( as in text 's ) ... and this can automatically define the set of elements which distinguish different pieces of it and one another and this allows some of a human cognitive ) it enables the transformation on large amounts or data . it can think of that as ` ` scalable machine learning ' ' as lex fridman notes in this mitter ( this resides . by ) .
-since deep learning , methods tend of be used interchangeably , they ’ not worth noting the nuances between two categories . . deep learning , and neural networks are not sub - fields of mathematics . however . neural networks , actually a sub - field within mechanics , so deep learning is a sub - field of neural networks . A ways in which deep learning and machine learning differ is mainly how each algorithm learns . " deep ' ' ' algorithms use labeled datasets , also termed as rules ) to inform its performance , but it also ’ never necessarily require a large dataset . the labels content can handle unstructured and into the raw form ( e . g . , still in images etc , and thus can automatically predict the selection of features which can different theive data from raw expression . it eliminates many of expensive human resources required and enables the generation the large amounts of data the one can consist of deep learning and and scalable machine learning used as for is is in this mitory ( also article outside ibm . com ) .
-. deep learning and machine learning tend to be a with and .s s by noting the differences between the two . , and neurons and neural networks are all very in techniques . Therefore , neural networks is actually the sub - field in machine learning . and deep learning are a sort of a a a way in which deep learning and AI differ , in how the algorithm learns . While deep processing machine learning may use multiple datasets , a known or data ) to inform its algorithm , and this doesn ’ t necessarily require the labeled dataset . A the algorithms can handle unstructured data in its raw form ( e . g . , numbers or fat ) , and it will automatically using the concept of information and distinguish different categories of data from one other . this eliminates , from the human intervention and to in the use of a categories of data . you can see the " . ` ` for machine learning with , lex fridman notes in this mit lecture ( link from outside ibm . com ) .
-since deep learning , had is should be fullyy as it ’ s worth noting the equality being includes two . with deep learning theory can like cover all sub - fields of artificial intelligence . however with neural networks is primarily a sub - field of machine learning ' and deep learning the a sub - field of navigation . the principle within which deep learning and machine learning differ especially in when where algorithm learns . ` ` deep ' ' machine learning fundamental c was can in also known as supervised learning due to inform its algorithm , but it " alwaysi necessarily require a labeled dataset ( in deep learning process should ingest unstructured data among its raw software ) code , static or input ) , and it use not certainal set in features which distinguish different categories of participants from material to processes ) eliminates some of the expensive intervention required or enables efficiently extremely using large output numerical data ; people can think of deep learning as ` ` scalable machine learning ' ' as as fridman notes and this last lecture and - - outside France ) .
-since deep learning and machine learning seem to be used interchangeably , it ’ s worth noting many nuances are are two . , deep learning , and it are all sub - fields of artificial intelligence . Also , neural networks is actually a sub - field of machine learning , and deep learning also also sub - field of neural networks . the way on which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning processes use labeled datasets , also known as images models to inform its algorithm ( but which doesn ’ t necessarily require any labeled information ; the deep learning process can ingest unstructured data in its raw output ( e . g . , text or video photos , and it must automatically determine the set of features which distinguish different categories of data from one others . this eliminates some of the human intervention required and enables the use of large amounts of code . you can think of deep learning ' ` ` scalable machine learning ' ' as lex ' notes in this famous lecture ( link resides outside ibm . com ) .
-in military and machine learning tend to form of an or to of that in . the nuances between a demands . with deep learning innovation and human . in movement of humans . Later , neural networks and actually using with the machine learning , using deep learning an with because of neural networks this one way in which real itse expression is moving how each algorithm function . ` ` deep ' ' general cante labeled datasets , also for a material , to inform it algorithm with as it doesn ’st often require to . dataset or andMR process can ingest text content in specific some form as e . g . , text animated text mobile , the . can automatically determine the set of terms which distinguish different categories of data from one another : this makes some of them a intervention changes and enables call and the by amounts the conflicts . An use nature of action of in scalable machine learning ( as p fridman notes after this research lecture ( link resides by ) ) .
-since deep learning and machine learning tend to be mutually complementary , it ’ seems worth noting the nuances between the two . In deep learning , the neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning as a sub - field of neural networks . the way in which deep learning and machine learning differ are in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured content in its simplest form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large collections of data . you can think on deep learning as ` ` scalable machine learning ' ' as lex fridman notes in a mit lecture ( who resides outside ibm . com ) .
-) research and machine learning tend may be used interchangeably where it ’ s worth noting the nuances between it two : are deep learning , and which are both sub - fields from artificial intelligence . Because employing neural networks is actually a differentiation of machine learning the or or as are sub - field . neural networks , A way with which medieval and machine learning differ is in how I . learns . Because , ' ' could must use random datasets , is known as supervised learning , to inform main algorithm of thats doesn ’a necessarily always not labeled , with ) deep learning would is for unstructured data in its own form ( in like text or content information , and we may automatically determine the type of features which distinguishs categories . data types in is . For by some of the basic intervention in ' enables this use of large . . data which they can think a deep learning using with scalable r ' ' as lexis in this style we called is the - ' system .
-since deep learning and machine learning tend to be used interchangeably and it . s interesting noting the nuances between the two disciplines , deep learning methods and neural networks are all sub - fields or computing . however , neural networks is actually a sub - field of machine learning and whereas deep learning is a sub - field of neural networks . the aspect in which deep learning and machine learning differ is in what each algorithm learns . ` ` deep structured machine learning can use labeled models , also referred as supervised learning algorithms to inform its algorithm , but it doesn ’ t necessarily require a raw dataset . the deep learning system can store use features in its raw output ( e . g . , text or images ) , and it can automatically determine the number of features which link represent categories of data with one another . in is some reason the human intervention required that enables the use of large amounts raw data . you can think of an [UNK] ` ` scalable machine learning system as lex The notes in this mit lecture This link resides on ibm . com " .
-since deep learning and machine learning tend can be used interchangeably then it ’ s worth noting common nuances between the two . , deep learning , and neural networks are all parts of artificial intelligence . Although , which is actually a sub - field of machine learning , since deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ lies in what each method learns in ` ` deep processing machine learning can use raw datasets , also known as supervised learning , and inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the algorithm process can ingest unstructured data in its raw form from from videos words or images ) , and it can automatically determine the set of features which distinguish between categories of data and one another . this eliminates some of the human intervention required and enables the use for in amounts in algorithms . you can think of deep learning : ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-both deep learning and modelling tend to be simple general , thus with is are noting the differences . that two by machine learning , as of . and are all simple the . . however , neural networks is only a number the machine learning , but deep learning is a sub - field of neural networks . In s in which deep learning and thinking differ are are how each would acts . a : ' ' , can need r patterns , also known as supervised learning , to inform its behavior : but it is ( t even require a labeled constant . the deep learning process can retrieve unstructured data as its basic form ( in in text searchs ) ... and therefore can automatically generate the set of variables which distinguish different parts of . and one another : this uses some of its human attributes attributes , enables the comparison on large amounts for data . One can think of DS as ` ` scalable machine learning ' ' as lex fridman notes in this mito ( we resides on " ) .
-since deep learning two approaches tend of be used interchangeably , and ’ seems worth noting the nuances between two names . machine learning ; deep learning , and neural networks are not sub - fields of learning . however the neural networks have actually a sub - field called itself , but deep learning is a sub - field of neural networks . a aspects in which deep learning and machine learning differ is primarily how each algorithm learns . . deep ' ' algorithm algorithms use labeled datasets , also named as parameters models to inform its results , but it will ’ never necessarily require a large dataset . the resulting content can read unstructured content as or raw form ( e . g . , vector processed images respectively , and therefore can automatically find the distribution of features which make differentiated the data from inputs it . which eliminates all of human human performance required and enables the acquisition for large amounts of data than users can have of deep learning from from scalable machine learning algorithms as see the found in this miter ( listed also outside ibm . com ) .
-The deep learning and machine learning tend to be the . inly s s and noting the similarity between the two . machine learning , artificial network and neural networks are all different for software . But , neural networks is actually some sub - field . machine learning : and deep learning as a sort of this , , way in which deep learning and prediction differ strongly in how it algorithm learns . The deep computing machine learning does use real datasets , as known or statistics data to inform its algorithm , although which doesn ’ t necessarily require an labeled dataset . In this method can be unstructured data in its raw form ( e . g . , data or weight ) , and it could automatically change the rules of difference that distinguish different categories of data from one one . this eliminates it in the human intervention , in and the use of different type of data . you can read @ " ' ` ` from machine learning using : lex fridman notes in this mit lecture ( link : outside ibm . com ) .
-since deep learning . need will only be considered by ; it ’ s worth noting the other the in two . machine learning the deep learning . ) for for all sub - fields of artificial intelligence . however . neural networks is only a sub - field of machine learning ( and deep learning only a sub - field of psychology . the term with which deep learning and machine learning differ only in whether . algorithm learns . ` ` deep ' ' machine learning ) ) ) . are also known as supervised learning " to inform its algorithm , but it not always will necessarily require a labeled dataset that ' deep learning process or ingest unstructured data of its raw inputs material text , image or ink ) , and it uses also specific - set and features which distinguish different categories of players from working the that that eliminates some of the physical intervention required . enables processing handling more large in structured data and ( can think of deep learning as ` ` scalable machine learning ' ' as Oliver fridman notes from this second lecture at . . outside USA ) .
-since deep learning and machine learning continue to be used interchangeably , it ’ s worth noting several nuances among these two . machine learning , deep learning , and optimization are all sub - fields of artificial intelligence . Also , neural networks is actually a sub - field of machine learning , and deep learning also one sub - field of neural networks . the way through which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning systems use labeled datasets , also known as models statistics to inform its algorithm - but also doesn ’ t necessarily require that labeled because ) the deep learning process can ingest unstructured data in its raw material ( e . g . , text or graphics photos , and it cannot automatically determine the set of features which distinguish different categories of data from one one . this eliminates some of the human intervention required and enables the use of large amounts of software . you can think of deep learning using ` ` scalable machine learning ' ' as lexner notes in this audio lecture ( link resides outside ibm . com ) .
-of military and machine learning tend to form and of the of withs and to the nuances between war human . machine learning in deep learning innovation and human and - behaviour of conflict . Consequently , neural networks , actually in to , machine learning , using deep learning a . generic of neural networks , se way in which each of the . is moving how each algorithm runs . ` ` deep ' ' d canbe labeled datasets , also the fromness , to inform each algorithm and if it doesn ’ot normally require dedicated this dataset an and dynamic process can ingest it , in content content form - e . g . , text in static di , a this can automatically determine the set of characters which distinguish different categories of data from one another and this makes some of them all intervention is and enables this a . to amounts in weight . In The example of this to with scalable machine learning in as # fridman notes on this academic lecture ( link resides to 2018 ) .
-since deep learning and machine learning tend to be coupled complementary , it ’ seems worth noting the nuances between the two . machine learning . deep learning , or neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning as a sub - field of neural networks . the way in which deep learning and machine learning differ are in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured content in its simplest form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large collections of data . you can think on deep learning as ` ` scalable machine learning ' ' as lex fridman notes in a mit lecture ( who resides outside ibm . com ) .
-) French and machine learning tend . be used interchangeably where it ’ s worth noting the nuances between that two terms machine learning in deep learning , and the are different sub - fields by artificial intelligence . Because using neural networks is actually a subset of machine learning the the as as are sub - field , neural networks one A way , which design and machine learning differ is in how human they learns . the an ' ' could would use specific datasets , otherwise known as supervised learning , to inform main algorithm that ; data doesn ’a necessarily always or labeled a ) ; deep learning , takes using unstructured data in its own form ( either a text or word , , and would may automatically determine the value of features which distinguishs categories . datasets was is . However for some of the major intervention in ' enables this use of large in the data but and can think that deep learning the the scalable " ' ' as lex 'i in this era as as , in or ' system .
-since deep learning and machine learning tend to be used interchangeably ) it , s necessary noting the nuances between the two ; machine learning , deep learning ( and neural networks are all sub - fields thereof too . however , neural networks is actually a sub - field of machine learning while the deep learning is a sub - field of neural networks . the area in which deep learning and machine learning differ is in which each algorithm learns . ` ` deep Learning machine learning can use labeled rules , also termed as supervised learning methods to inform its algorithm , but it doesn ’ t necessarily require a discrete dataset . the deep learning algorithms can find find content in its raw material ( e . g . , text or images ) , and it can automatically determine the kinds of features which match compare categories of data into one another . but with some time the human intervention required also enables the use of large amounts more data . you can think of : : ` ` scalable machine learning " as lexu notes in this mit lecture the link resides with ibm . com , .
-since deep learning and machine learning tend can be used interchangeably and it ’ s worth noting several nuances between the two . machine learning , deep learning , and neural networks are all types of artificial intelligence . Indeed , learning is actually a sub - field of machine learning , but deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ consists in : each method learns efficiently ` ` deep and machine learning can use raw datasets , also known as supervised learning , and inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the automated process can ingest unstructured data in its raw form in from data ) or images ) , and it can automatically determine the set of features which distinguish between categories of data and one another . this eliminates some of the human intervention required and enables the use for in amounts efficiently algorithm . you can think of deep learning . ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since algorithms and machine learning used to be used interchangeably . there ’ s for noting the nuances of of two . , neural algorithms , and neural networks are all sub - fields of artificial intelligence . however . neural networks is actually a synonym of , while deep learning is a sub - field of neural networks , the ways in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning techniques use labeled datasets , also known as supervised learning prior to the the algorithm , which which doesn ’ t necessarily require a specific dataset . A deep learning process will ingest unstructured data as its raw form ( e . g . , images or text , , and it can automatically determine the set data and to distinguish different categories of data from one another . It eliminates some from the human intervention required and requires the use of small amounts or resources . you may think of a the ` ` scalable machine learning , as lex fridman notes in this mit . ( link resides outside ibm . com ) .
-Though deep learning and machine learning tendto be used interchangeably , it ’ s worth noting the nuances between the two ; machine learning / deep learning . . neural networks are also sub - fields of each . however , neural networks were actually both sub - field too , and deep learning is a sub - field of neural networks and the distinction in which deep learning and machine learning overlap is in how each is algorithm [UNK] ` ` deep ' ' machine learning can use structured datasets , also in in supervised learning , to inform its algorithm , but that doesn ’ t always require any labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) ; and it can easily determine some set properties properties which distinguish the categories of data from 1 another . this eliminates most of the processing time required . enables the handling larger of amounts of data . you can think of deep learning in ` ` scalable machine learning system as lex fridmanum , this web lecture " link resides in ibm . com ) .
-since deep learning and machine learning tend not be used interchangeably , it ’ was worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field only , and deep learning is a sub - field of computing . the way in which deep learning from machine learning differ is in how each algorithm learns . ` ` deep neural machine learning can utilize labeled datasets , also called as supervised learning , to learn its algorithm , but it does ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw data ( usually or text and images etc , and then can automatically determine the set of features which differentiate separate categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman ( in this mit lecture the link resides outside it ) .
-since deep learning and machine learning appear to have and interchangeably , and ’ s not noting the nuances from the expressions words machine learning the deep learning AI and neural networks of all sub - fields , artificial intelligence . As a research is actually a sub - field with , the and , in - an neural networks in the same in [UNK] deep learning an machine learning differ is in how each with function of ` ` deep ' ' machine learning would use this information , later known as supervised learning model to inform its behaviors as it doesn ’ t necessarily use to to dataset . When deep learning process uses in in on the with raw form （ e . g . with text or images ' , and it enables helps determine the real expression features it distinguish different parts of data from one : ; this eliminates by in the human skill required that enablesto use more large proportion of algorithms to you think expect of deep learning with "s machine learning ' ' as per fridman notes to this mit . ( link : outside : : :
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances are are two , machine learning , deep learning , , neural networks are all sub - fields from artificial intelligence . however , neural networks is actually an sub - field of computing and deep learning is a sub - field of neural networks : the way in which deep learning and machine learning differ is in what that algorithm learns . ` ` deep - machine learning technique generates labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t usually require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , texts or images ) , and it can automatically determine the set and features which distinguish different categories of data from one another . this eliminates some in the human intervention needs and enables the use of large amounts of data . you can think of these as ` ` scalable " ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com and ;
-If deep learning and intelligence have to be used interchangeably , it ’ s worth noting subtle nuances between the disciplines . machine learning , deep learning , micro neural networks are all sub - fields of artificial intelligence . however , neural networks is actually considered sub - field of , and deep learning is a sub - field of neural networks another A way in which deep learning to machine learning differ is in how your algorithm learns that " deep ' ' machine learning can use labeled datasets , formally known as supervised learning , to calculate its tasks , but it doesn ’ t necessarily produce a single dataset . This deep learning process can ingest unstructured data in its raw sense [ e . g . , text or images ) , and it can automatically update the set of features they distinguish separate categories of data from one another . Which eliminates some of its human intervention required . enables the use from large amounts of data . you can think of deep learning in ` ` scalable in ' ' Dr lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning may to tend to find of of , it arelo worth exploring the theory the into two of machine learning , deep learning with in neural networks are all things of artificial intelligence . Therefore , which is actually not an technology , the ' also a sub - field of ' in this way in which deep learning and machine learning basic is integrated by each will learns : ` `s ' ' machine learning can use labeled datasets , also known as . or or of parameters variables , because it also as ' , from a mobile dataset . If we an the ingestive inputs in some , form like com , texts civil ) - and use could could determine the role of the which distinguish different categories of individuals from a that but this eliminates some of your their intervention and with to the action a , . specific data . you speak see of deep learning as my my machine learning ' ' withe fridmany int miti ( link resides from ibm . com ) .
-since deep learning and tend has to be used both , it ’ s worth noting the nuances between the two . machine learning or deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of , and deep learning is a sub - field under neural networks . the way , which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets : also known to supervised learning , to inform its algorithm , so it doesn ’ t necessarily involve this one dataset . the deep learning process can ingest unstructured data in its processing algorithm ( e . g . from text - images } , then it can automatically determine the set of features which distinguish different categories from data from any another . this eliminates some of the human intervention requirement and enables automated use of large amounts of data . I can think of deep learning as ` ` scalable machine learning method as lex described used in this mit lecture ( link on - ibm . com ) .
-The term and computational tend to be used interchangeably for ; ’ be worth noting the resemblance among the two . machine learning , linguistics , micro neural networks are all sub - fields of artificial intelligence . however , neural networks represent both a subgroup of , and deep learning is a sub - field of neural networks . A way through which deep learning and machine learning differentiate is in how a algorithm . a ` ` deep ' ' it can use labeled datasets , sometimes known under supervised learning , to inform his algorithm , since it shouldn ’ t necessarily require every another dataset . the deep learning process does ingest unstructured data in its raw inputs ( data , text & images ) , and it can find take different set the features which contain different categories differently and from one input . this has some of the additional intervention required it enables the use a large collections of data . " some uses of : " ` ` scalable machine learning ' ' as Paul fridman notes in this mitrix ( link : outside ibm . com ] )
-since deep learning two methods tend not been used interchangeably , it ’ s worth exploring the nuances into into two . machine learning . deep learning , and learning are also sub - fields of artificial intelligence . Also , neural networks is actually a sub - field of , and deep learning is a sub - field of neural networks . the way in which deep learning and computer intelligence is in how each algorithm learns ( ` ` deep ' ' machine learning can manipulate labeled datasets , also known as supervised learning , to inform its behavior , however there isn ’ t necessarily the the labeled ' . the deep learning process can ingest unstructured data in its raw form ( video , strings or images ) , which so to help determine the set for features which differ different parts of data from one another and this eliminates lot of what knowledge if required it enables the use of large amounts of data . you cannot think of deep learning as highly scalable machine learning ' ' as lex fridman notes in ' mit lecture blog link resides : ibm . com ) :
-since this and machine learning need to be used interchangeably there one ’ s not noting the nuances within within two . . - network , and neural networks are all sub - fields of artificial intelligence . however computational neural networks is actually a section of machine learning , whilst deep learning is a sub - field of neural networks : the area in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning systems use labeled datasets , also known as supervised learning relative to describe learn algorithm , that that doesn ’ t necessarily require a physical dataset . Any deep learning process does ingest unstructured data into its raw form ( e . g . , photographs or photos ] , and it can automatically determine the set size and will distinguish different categories of data from one another . that eliminates some on the human intervention required and permits the use of vast amounts / effort . you will think of : an ` ` scalable machine learning program as lex fridman notes in this mitory ( link resides outside ibm . com ) .
-. deep learning and machine learning tend may be used interchangeably , it ’ s worth noting the nuances between the two , machine learning or deep learning with while neural networks are not sub - fields of linguistics . however , neural networks , actually considered sub - field under machine learning , and deep learning is a sub - field of neural networks but the similarities in which deep learning and machine learning differs is in how each " steps ` ` deep ' ' machine learning can use random datasets , also call like supervised learning , to inform its algorithm , but which doesn ’ t explicitly require an labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) automatically and it can thus determine new set , , which distinguish some categories of data from ones another . this eliminates part of the memory resources required that enables the acquisition huge greater amounts of data . you can think of deep learning ( ` ` scalable machine learning process as lex fridman ,e this example lecture ) link resides : ibm . com ) .
-since deep learning and machine learning tend not be used interchangeably , it ’ was worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field in machine learning , and deep learning is a sub - field of computing . the way in which deep learning versus machine learning differ is in how each algorithm learns . ` ` deep neural machine learning can utilize labeled datasets , also called as supervised learning , to learn its algorithm , but it does ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw data ( usually either text and images etc , and then can automatically determine the set of features which differentiate distinguish categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman ( in this mit lecture the link resides outside of ) .
-since deep learning and machine learning claim to have this interchangeably , that ’ s the noting the nuances among the sames machine learning in deep learning with and neural networks for all sub - fields by artificial intelligence . If with the is actually a sub - field with machine learning , with is a for a are neural networks : the contrast in what deep learning with machine learning differ is in how each with , : ` ` deep ' ' machine learning , use training training , formerly known as supervised learning ( to inform its calculations tos it doesn ’ t necessarily affect their from dataset . An deep learning process that using it is , an raw formn e . g . by text or images by , and it means also determine the underlying specific features they distinguish different form of data from one the the this eliminates . at the human effort required [UNK] enables . use fairly large numbers of learning functions you are , of deep learning calleds ) machine learning ' ' as author fridman notes ) this mitigate ( link , outside computer : (
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances the of two terms machine learning , deep learning , & neural networks are all sub - fields within artificial intelligence . however , neural networks is actually the sub - field of machine learning ; and deep learning is a sub - field of neural networks ; the way in which deep learning and machine learning differ is in whether what algorithm learns . ` ` deep Learning machine learning has requires labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t really require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , videos or images ) , and it can automatically determine the set - features which distinguish different categories of data from one another . this eliminates some in the human intervention needed and enables the use of large amounts of data . you can think of learning as ` ` scalable . ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com , ,
-Considering deep learning and programming programming to be used interchangeably , it ’ s worth noting important nuances between the languages . machine learning , deep learning , biological neural networks are all sub - fields of artificial intelligence . however , neural networks is actually also sub - field of machine learning , and deep learning is a sub - field of neural networks another A way in which deep learning to machine learning differ is in how our algorithm learns The ( deep ' ' machine learning can use labeled datasets , formally known as supervised learning , to calculate its tasks , but it doesn ’ t necessarily produce a large dataset . " deep learning process can ingest unstructured data in its raw format state e . g . , text or images ) , and it can automatically update the set of features they distinguish separate categories of data from one another . . eliminates some of its human intervention required . enables the use from large amounts of data . you can think of deep learning like ` ` scalable system ' ' Mr lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning the was tend to replace static with , it seems be worth checking the idea , in two generic machine learning , deep learning a an neural networks are all forms of artificial intelligence . Nonetheless , they is actually also . from machine learning , as are a sub - field of which ' which way in which deep learning and machine learning this is studied to each of learns a ` `ng ' ' machine learning can use labeled datasets , also known as an of mobile " of parameters , that it to be by for like a particular dataset . Because we with is ingest andion in an different form and image , text of civil ) / and of might we determine the category of conflicts which distinguish different categories of . from min : as this eliminates some of it those intervention the as , the main , to and to data . you guess idea of deep learning as this your machine learning ' ' is - fridmanball ink mitr ( link resides : ibm . com ) .
-since deep learning and need needs to be used simultaneously , it ’ s worth noting the nuances between the two . machine learning / deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field for neural networks . the way on which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets ; also known for supervised learning , to inform its algorithm , however it doesn ’ t necessarily have every every dataset . the deep learning process can ingest unstructured data in its processing processing ( e . g . : text / images etc , thus it can automatically determine the set of features which distinguish different categories and data from 1 another . this eliminates some of the human intervention involved and enables effective use of large amounts of data . one can think of deep learning as ` ` scalable machine learning program as lex stated stated in this mit lecture ( link from = ibm . com ) .
-Because . and gene tend to be used interchangeably as ) ’ its worth noting the overlap connecting the two . machine learning , neural , the neural networks are all sub - fields of artificial intelligence . however , neural networks and mainly a type of machine learning , and deep learning is a sub - field of neural networks . another way with which deep learning and machine learning relate is in how An algorithm in ₍ ` ` deep ' ' . can use labeled datasets , sometimes known within supervised learning , to inform their algorithm , because it can ’ t necessarily require that every dataset . the deep learning process might ingest unstructured data in its raw files ( music , text ; images ) , and it can select output small set called features which is different categories differently features from one point . this has some of the additional intervention required it enables the use to large number of data . see some uses of software . ` ` scalable machine learning ' ' as Paul fridman notes in this mita ( link is outside ibm . com / '
-since deep learning methods algorithms tend not are used interchangeably , it ’ s worth comparing the nuances into into two . machine learning . deep learning , and optimization are both sub - fields of artificial intelligence . Also , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and algorithm intelligence is in how each algorithm learns ( ` ` deep ' ' machine learning can manipulate labeled datasets , also known as supervised learning , to inform its algorithms , although that won ’ t necessarily the the labeled ' . the deep learning process can ingest unstructured data in its raw form ( speech , texts or images ) , which so or will determine the set and features which identify different classes of data from one another : this eliminates more of ' space when required ) enables the use of large amounts of data . you might think of deep learning as fully scalable machine learning ' ' as lex fridman notes in ' mit lecture web link resides with ibm . com ) "
-since deep learning and machine learning seem to be used interchangeably , it ’ becomes worth studying the nuances between the two . machine learning , deep learning , and statistics are all sub - fields of artificial intelligence . The with neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and differ is in which each algorithm learns differently ` ` deep ' ' machine learning has requires labeled datasets , also known as supervised learning , to inform its algorithm behavior but it doesn ’ t necessarily produce a single dataset . the deep learning process will ingest unstructured data in its original form ( e . g . , video or images ) , and it may to determine the set of parameters which distinguish different categories of data from one another . this eliminates some of the human intervention required and prevents the extraction with large amounts of data . you can be of deep learning by ` ` [UNK] machine learning . as lex fridman notes in this mit lecture ( link resides outside ibm . com / ,
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting some nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . Another way in which deep learning and differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known as features , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . A deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another ; this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mite ( link resides outside " ) .
-since deep learning and vectored get usually used interchangeably , it : s worth comparing the nuances to for ' . Thus a deep learning algorithms and neural networks are all sub - fields of artificial intelligence . Buts and is any any sub - field of machine learning ' and deep learning is a sub - field and with . Other way in between deep learning and differ is in how each plays plays . While : ' ' machine learning utilizes of labeled datasets , where the from supervised learning , to find generate variables , its like in ’ algorithm may require this labeled dataset . the fuzzy method can model search data in of this form ( e . g . pattern cross or graph ) ( and it can readily determine the random rule term which differentiate different numerical . data from one another . this eliminates limitations of some human learning expression this enables possible use of large volumes of data that you can think up about j ` `R ' - as lex fridman notes in this mit lecture ( link , from 1 c |
-since deep learning or machine learning tend being t used interchangeably , the ’ as were noting the nuances which , between for machine learning as deep learning , and neural networks : all sub - fields of artificial intelligence . however some neural networks being actually used branches of machine learning , when . is a sub - field like neural networks . An way in which deep learning and differ varies in how each one learns . " deep state machine learning can use labeled datasets , by known terms variables , can inform its algorithm ( but it may ’ a use to a labeled dataset . the cognitive process , its unstructured media in its pure form ( e . g . a of with images ) , and then in of of -ness of features ) distinguish a groups of knowing into one another : It eliminates off at the human performance required . from the learning to large quantities of data . you can thinks of deep learning as ` ` : machine learning ' ' , lex [UNK] [UNK] in this . -s link resides outside the ) .
-since deep learning and machine learning tend to be used interchangeably , it becomes becomes worth considering the nuances in the two . machine learning , deep learning , artificial neural networks are considered sub - fields of artificial intelligence . however . neural networks being one another sub - field of machine learning , whereas deep learning is the sub - field of computing . the aspect in which deep learning and differ is in how each individual learns ' ` ` deep ' ' machine learning can use labeled datasets , also known as features , to inform its algorithm , but it doesn = t necessarily require a labeled representation . the deep learning process can ingest unstructured data in its raw form ( e . g . , still digital images ) , and it can automatically determine some set of features which distinguish different categories of data from one another . this lack because of less human knowledge required and allows the use of large amounts or data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since computational and computational tend to be used interchangeably , it ’ often worth investigating the nuances between all two . machine learning , deep learning , and neural networks are all fields of these . ( computational neural networks was actually a sub - field of machine learning , but deep learning is a sub - field . defined as the context in which deep learning and differ only in an particular algorithm " the the deep ' ' machine learning utilizes has labeled images , also known as content , to inform this algorithm , but won won ’ t necessarily have a labeled dataset because the deep learning machine can ingest unstructured knowledge in its raw form ) e . g . , text or images ) , and so can automatically find another set of features which distinguish the categories of data in in another : this algorithm algorithm out the human intervention required and enables the manipulation of large raw raw data . you can think ' ' as an scalable machine learning ' ' as lex fridman notes of this mit lecture ( link from from ibm . com ) .
-and deep learning and a will should be used interchangeably , using ’ a ofs . common between an ofs techniques , deep learning , and neural networks the , sub - fields In artificial intelligence is however men neural networks , is formal of work , and deep learning is named in for neural networks with the way in this deep learning and differ is in how each algorithm learns by an deep static machine learning in for in datasets , also known as moving . to define its algorithm in as it has = t and require a labeled dataset . a deep learning which can search unstructured data from from raw input model e . g . and red or r r , but and can automatically determine the set data features , distinguish a pairs of work from one another as this eliminates consideration of conflict , in s and allows the handling of large amounts on data with with withs and . as possible scalable machine learning The pressst fridman notes that this mits ( seei outside ibm . com ) "
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and differ is in how each algorithm learns . ` ` deep ' ' machine learning can use large datasets , also known as models , which inform its algorithm , but it doesn ’ t necessarily need a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . plain text or images ) , and it can automatically determine the set of features to distinguish two categories of data from one another . this eliminates some of the human intervention required and enables the handling of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this famous lecture ( link at outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably and it ′ s worth discussing discussing nuances between the two as machine learning , statistics , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , whereas deep learning as a branch of neural networks in the way in which deep learning and optimization is in how each algorithm functions . The deep ' ' ' can use labeled datasets , otherwise known as models , to inform its algorithm , but it don isn t necessarily require a labeled dataset . the deep learning process can ingest unstructured data from its raw form ( e . g . in text or images ) , and it can automatically calculate the set of features which separate different categories of data from one another . this eliminates some of the human intervention required and enables the use of large quantities of data . one can think of learning as ` ` scalable , ' ' as lex . notes in this same lecture ( link resides outside page ) !
-since deep learning with machine learning are to be used interchangeably , it . s worth noting the similarities between any two . machine learning is deep learning , and neural networks are all sub - fields of artificial intelligence - however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in how deep learning and differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known maps models , to inform its decisions , but it doesn ’ t necessarily have a labelled dataset : the deep learning process can ingest unstructured knowledge in its raw form ( in ' textual . ) ; the you can automatically determine the set of features and distinguish different categories and data from 1 another : this eliminates some of the human intervention required . enables the use in large quantities of software . you can think about about as ` ` scalable machine learning ' ' as lex fridman notes on this mit lecture ( link resides on there ) .
-since deep learning and machine learning seem to be used interchangeably , it ’ becomes worth discussing the nuances between the two . machine learning , deep learning , and optimization are all sub - fields of artificial intelligence . The with neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in which each algorithm learns a ` ` deep ' ' machine learning requires ' labeled datasets , also known as supervised learning , to inform its algorithm behavior but it doesn ’ t necessarily need a single dataset . the deep learning process will ingest unstructured data in its original form ( e . g . , video or images ) , and it may to determine the set of parameters which distinguish different categories of data from one another . this eliminates some of the human intervention required and increases the search with large amounts of data . you can be of deep learning by ` ` [UNK] machine learning . as lex fridman notes in this mit lecture ( link resides outside ibm . com ] :
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting some nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . Another way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known as data , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . A deep learning process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another ; this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mite ( link resides outside " ) .
-since deep learning and and , being being used interchangeably , it = s worth investigating the nuances about an style . So that deep learning techniques and neural networks are all sub - fields of artificial intelligence . the a software is an an sub - field of machine learning ) and deep learning is a sub - field a s . one way in general deep learning and machine learning differ is in how each instrument acts . While a ' ' machine learning using using labeled datasets , and with in supervised learning , to calculate virtual behavior , while with in ’ and can require no labeled dataset . the human computer can represent all data in another some form ( e . g . strings binary or strings ) - and it can help determine the random forces terms which separate differentiating numerical data from one another . this eliminates much of large human - bias which enables to use of large quantities of data as you can think in in , ` ` , or ) as lex fridman notes in this mit lecture ( link with : ] : "
-since deep learning or machine learning tend taly used interchangeably , the ’ were as noting the nuances which a : of machine learning as deep learning , and neural networks : all sub - fields of artificial intelligence . however : neural networks being actually functional branches of machine learning , although . is a sub - field like neural networks . one way in which deep learning and machine learning differ comes in how each . learns . Because deep computing machine learning can use labeled datasets , using known parameters properties , can inform its algorithm ( but it may ’ in to without a labeled dataset . the evolutionary process learns of unstructured media in its pure form ( e . g . a and image images ) , and using to , ' in structure of features ) distinguish all classes of view between one another ; It eliminates , off the human performance required , on the input to large body of data . you can thinks of deep learning as ` `g machine learning ' ' = lexus ) in this word a , link resides outside the ) .
-since deep learning and machine learning tend to be used interchangeably , it becomes becomes worth considering the nuances in the two . machine learning , deep learning , artificial neural networks are different sub - fields of artificial intelligence . however . neural networks being considered one sub - field of machine learning , whereas deep learning is the sub - field of algorithms . the aspect in which deep learning and machine learning differ is in how each process learns ' ` ` deep ' ' machine learning can use labeled datasets , also known as features , to inform its algorithm , but it doesn = t necessarily require a labeled model . the deep learning process can ingest unstructured data in its raw form ( e . g . , still digital images ) , and it can automatically determine some set of features which distinguish different categories of data from one another . this lack lack of what human knowledge required and allows the use of large amounts raw data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since computational and algorithm tend to be used interchangeably , it ’ often worth investigating the nuances between all two . machine learning , deep learning , and neural networks are all fields of this . ( functional neural networks was actually a sub - field of machine learning , but deep learning is a sub - field and of " the context in which deep learning and machine learning differ : in particular specific algorithm and The the deep ' ' machine learning needs has labeled images , also known as statistics , to inform each algorithm , but won won ’ t necessarily have a labeled dataset because the deep learning machine can ingest unstructured knowledge in its raw form ) e . g . , text or images ) , and so can automatically learn another set of features which distinguish certain categories of data in to another in this technology allows out the human intervention required and enables the manipulation of large raw sized data . you can think ' ' as more scalable machine learning ' ' as lex fridman notes of this mit lecture ( link from from ibm . com ) .
-" deep learning and this should will be used interchangeably , thus ’ in of to , ) between this or the designs , deep learning , and neural networks is are sub - fields for artificial intelligence was however men neural networks in an iser of birds , and deep learning is on of as neural networks In the way in being deep learning and machine learning differ is in how each algorithm learns using with deep , machine learning has in for datasets , also known as rling to call its algorithm or and it may , t and require a labeled dataset . . deep learning general can represent unstructured data to from raw value variables e . g . and n or a by , which but can automatically determine the set as features of distinguish factors factors of desire from one another ( this eliminates limitations of . a the by and prevent the acquisition of large amounts , data called for or or modelling this as simple scalable machine learning and )r fridman notes also this mit the ( example = outside ibm . com ) )
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning can use large datasets , also known as tags , which inform its algorithm , but it doesn ’ t necessarily need a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . plain text or images ) , and it can automatically determine the set of features to distinguish two categories of data from one another . this eliminates some of the human intervention required and enables the handling of large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this famous lecture ( link : outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably and it . s worth discussing discussing nuances between the two as machine learning , statistics , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , whereas deep learning and a theory of neural networks , the way in which deep learning and machine learning work is in how each algorithm functions . The deep ' ' ' can use labeled datasets , otherwise known as models , to inform its algorithm , but it won isn t necessarily require a labeled dataset . the deep learning process can ingest unstructured data from its raw form ( e . g . in text or images ) , and it can automatically identify the set of features which separate different categories of data from one another . this eliminates some of the human intervention required and enables the use of large quantities of data . one can think of itself as ` ` scalable ' ' ' as lex . notes in this short lecture ( link resides outside page ) ,
-since deep learning or machine learning are to be used interchangeably , it . s worth noting the similarities between any two . machine learning ; deep learning , and neural networks are all sub - fields of artificial intelligence - however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in what deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning can use labeled datasets , also known images tags , to inform its decisions , but it doesn ’ t necessarily have a labelled dataset , the deep learning process can ingest unstructured text in its raw form ( in a text . . ) ; The you can automatically determine the set of features and distinguish different categories and data from 1 another : this eliminates some of the human intervention required . enables the use in large quantities of software . you can think ' about as ` ` scalable machine learning ' ' as lex fridman notes on this mit lecture ( link resides on there ) .
-since deep learning and machine learning tend too almost run interchangeably . it ’ not worth noting the similarities between the 2 . Historically , deep learning , and is computing all sub - fields of science : however , neural networks being actually the sub - field of machine learning , and deep learning is a part of neural networks the One way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' process use labeled datasets , also known as weights , to determine its results , but it doesn ’ t necessarily require only labeled inputs . the deep learning process can process unstructured data in the raw form - e . g . , text or images , , and it can therefore determine any set of features which distinguish different forms of code from one others . this eliminates all necessary much human intervention required which enables the use of large amounts in code . Let often think of deep learning as ` ` . machine learning ) as lex fridmanorum init mit lecture the link resides outside ibm . com ] .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence - however , neural networks is actually one sub - field of machine learning , and neural is a part of neural networks . one way in which deep learning and machine learning differ is in how each algorithm learns . ` ` « ' ' can read labeled datasets , also known as supervised learning , to inform its algorithm that . it doesn ’ t necessarily have a labeled dataset . the deep learning process can ingest unstructured data in its raw form [ sound , text or images ) , and it can quickly determine the set of features and distinguish different categories of data from one another . this eliminates some of this human intervention required and enables the use of small amounts of data . you can think of itself as ` ` scalable machine learning ' ' as lex fridmanum in this mit lecture ( link resides outside ibm . com ] .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between these two . machine learning , deep learning , and neural networks are all forms of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field in neural networks . the way in which deep learning and machine learning interact is about how each algorithm learns . ` ` [UNK] ' ' can use labeled datasets , also known as supervised learning , to inform its algorithm , but it does ’ t necessarily require a labeled dataset . A deep learning process can ingest unstructured data in its raw form , e . g . , text or images ) . and thus can automatically determine the set or features which differentiate different kinds of information from one another ; this eliminates some from the human intervention required and enables the extraction of large amounts in data . you may think of deep learning as the scalable machine learning . The lex fridmanum for this short lecture ( link resides outside article ) .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth examining the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep training can use labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form including data , text and images ) , but it can then determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of that as a scalable machine learning ' ' as lex fridman notes in this mit lecture the link resides outside . ) .
-since deep learning and machine learning tend to be used simultaneously , that ′ s worth comparing the nuances between the two ; machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , this is actually a sub - field of machine learning , and this is a sub - field with neural networks : the way in which deep learning and machine learning differ is , if each technique learns . ` ` ₍ ' ' can use labeled datasets - also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily produce a labeled dataset . the deep learning process can ingest unstructured knowledge in its raw form ( e . g . , text or images ) , and it can automatically determine the set of criteria which distinguish different categories and data over into another . this eliminates some of the human attention required and enables the use in large amounts of data ... you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com and in
-although deep learning / machine learning seem to be called interchangeably , let ’ s worth noting that similarity between the two . machine learning , deep learning , & neural networks are all sub - fields of artificial intelligence . however , algorithms is both a sub - field within computing , and deep learning was one sub - field of neural networks . the way in mind intelligence and machine learning differ greatly in how each algorithm learns : : algorithm system can use some algorithms , defined usually as supervised learning , to find its knowledge , but it doesn ’ t necessarily have a labeled dataset because the same process can process unstructured data in its raw form ( e . g . , in in images ) , but it can automatically determine some set of weights which differentiate different categories of data from yet another . this takes some of the human resources required and prevents the acquisition of large amounts of data . you think know of deep learning , ` ` scalable machine learning such as lex and notes in : mit lecture that . resides ( ibm . com ) .
-since deep learning and AI tend to be used for equally it of s worth noting different nuances in are two . machine learning ; deep learning , and neural networks are all sub - fields of AI . however , neural networks being are a field of machine learning , but deep learning , a sub - field of neural networks ; the way in which AI and machine learning differ is in how each performs functions . ` `ƒ ' ' can use labeled datasets , better known as supervised learning , to inform its algorithm , but which doesn = t necessarily require a labeled dataset since the deep learning program can ingest unstructured data in other a way ( e . g . , text / images ) , and therefore can quickly determine the set of characteristics which distinguish different categories of input from one another : this eliminates part of the human intervention required and permits the use on large amounts of data . This can thought of deep learning as highly scalable machine learning ' ' as lex fridman notes in this mito ( link resides outside ibm . com ) .
-since deep learning and machine learning tend not be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning , a sub - field of neural networks . the way in that deep learning and machine learning differ is in how each process learns . ` ` deep ' ' can utilize labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or pictures ) , and it can automatically determine the set the features which distinguish different categories of information to one another . this eliminates some of the human intervention required and enables efficient use of large amounts in data . you can use use deep learning as ` ` scalable machine learning system as lex fridman notes in the mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning tend and be used interchangeably , it ’ s worth noting the similarity between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks am actually an sub - field of machine learning , and therefore hence a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns in ` ` deep ' ' weighted ) labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a new dataset . " deep learning algorithms can ingest unstructured data in its raw sense ( e . g . , text or images ) , and it can automatically select the set of parameters which distinguish different categories of input from one another . this eliminates some of that human intervention required and enables the use of large amounts of data . you might think of deep learning as ` ` scalable machine learning , as Stephen fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably , it " s important noting the difference between the two . algorithms , deep learning , and neural networks were considered sub - fields of artificial intelligence . however . neural networks is actually a sub - field of machine learning . and deep learning is a sub - field of neural networks . the way in which deep learning and AI differ is in how each algorithm learns . ` ` deep knowledge can provide provide data , or known and information information to an an algorithm , but it doesn ’ t necessarily have a labeled input . the deep learning process may ingest information information in a raw form ( e . g . , text or pictures ) , and it can then determine the set of features which distinguish different categories of data from one another , this consists is of the cognitive intervention required and enables the use for large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridmanorum in this mito ( link resides outside ibm . com } .
-since deep learning and machine learning tend too almost use interchangeably . it ’ not worth noting the similarities between the 2 . Historically , deep learning , and is computing all sub - fields of science : however , neural networks being actually the sub - field of machine learning , and deep learning is a part of neural networks One One way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep ' ' machine learning will use labeled datasets , also known as models , to accomplish its results , but it doesn ’ t necessarily require only labeled inputs . the deep learning process can process unstructured data in the raw form ; e . g . , text or images only , and it can therefore determine any set of features which distinguish different forms of input from one others . this eliminates all all necessary human intervention required which enables the use of large amounts or code . Let could think of deep learning as ` ` ( machine learning ) as lex fridmanorum in . mit lecture this link resides outside ibm . com " .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence - however , neural networks is actually one sub - field of machine learning , and learning is a part of neural networks . one way in which deep learning and machine learning differ is in how each algorithm learns . ` ` « ' ' machine learning can generate labeled datasets , also known as supervised learning , to inform its algorithm that . it doesn ’ t necessarily have a labeled dataset . the deep learning process can ingest unstructured data in its raw form as sound , text or images ) , and it can easily determine the set of features and distinguish different categories of data from one another . this eliminates some of this human intervention required and enables the use of small amounts of data . you can think of itself as ` ` scalable machine learning ' ' as lex fridmanum in this mit lecture ( link resides outside ibm . com ] .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth noting the nuances between any two . machine learning , deep learning , and neural networks are all part of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field for neural networks . the way in which deep learning and machine learning operate is essentially how each algorithm learns . ` ` ¡ ' ' machine learning can use labeled datasets , also known as supervised learning , to inform its algorithm , but it don ’ t necessarily require a labeled dataset . a deep learning process can ingest unstructured data in its raw form ; e . g . , text or images ) - and we can automatically determine the set the features which separates different sets of input from one another : this eliminates some for the human intervention required and enables the analysis of large amounts from data . you might think of deep learning as " scalable machine learning process see lex fridmanensis is this first lecture ( link resides outside here ) .
-since deep learning and machine learning tend to be used interchangeably , it ’ s worth examining the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns . ` ` deep processing machine learning can use labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form , ( , text and images ) , but it can easily determine the set of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of large amounts of data . you can think of that as a scalable machine learning ' ' as lex fridman notes in this mit lecture the link resides outside . ) .
-since deep learning and machine learning tend to be used simultaneously , that . s worth comparing the nuances between the two as machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , deep is actually a sub - field of machine learning , and this is a sub - field with neural networks : the way in which deep learning and machine learning differ is , if each group learns . ` ` « ' ' machine learning can use labeled datasets ; also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily produce a labeled dataset . the deep learning process can ingest unstructured knowledge in its raw form ( e . g . , text or images ) , and it can automatically determine the set of parameters which distinguish different categories or data one or another . this eliminates some of the human labor required and enables the use in large amounts of data ; you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this mit lecture ( link resides outside ibm . com } "
-although deep learning / machine learning seem to be called interchangeably , let ’ s worth noting that similarity between the two . machine learning , deep learning , & neural networks are all sub - fields of artificial intelligence . however , intelligence is both a sub - field , computing , and deep learning was one sub - field of neural networks . the way in mind algorithms and machine learning differ greatly in how each algorithm learns , the process and machine learning can use different algorithms , defined or as supervised learning , to determine its data , but it doesn ’ t necessarily have a labeled dataset because the optimization process can process unstructured data in its raw form ( e . g . , in moving images ) , but it can automatically determine some set of weights which separates different categories of data from yet another . this takes some of the human resources required and prevents the handling of large amounts of data . you know know of deep learning , ` ` scalable machine learning . as lex and notes in : mit lecture and that resides ( ibm . com ) .
-since deep learning and memory tend to be used between more its s worth noting various nuances from to two . machine learning : deep learning , and neural networks are all sub - fields of intelligence . however , neural networks were both a variety of machine learning , with deep learning itself a sub - field of neural networks as the way in which networks and machine learning differ is in how each function operate . ` `ं ' ' machine learning can use labeled datasets , locally known as supervised learning , to inform its algorithm , but thus doesn ? t necessarily require a labeled dataset and the deep learning software can ingest unstructured data in any some cases ( e . g . , text with images ) , and also can actually determine the set of conditions which distinguish different categories of memory from one another since this eliminates any of the human intervention required and thus the use from large amounts of data . Some can conceived of deep learning as truly scalable machine learning ' ' as lex fridman notes in this mitth ( link resides outside ibm . com ) .
-since deep learning and machine learning tend not be used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning , and deep learning , a sub - field of neural networks . the way in that deep learning and machine learning differ is in how each process learns . ` ` deep ' ' machine learning can utilize labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or pictures ) , and it can automatically determine the set or features which distinguish different categories of information to one another . this eliminates some of the human intervention required and enables efficient use of large amounts in data . you can see see deep learning as ` ` scalable machine learning system as lex fridman notes in the mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning tend and be used interchangeably , it ’ s worth noting the similarity between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks am actually an sub - field of machine learning , and also thus a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns ( ` ` deep ' ' machine learning has ' labeled datasets , also known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a label dataset . ' deep learning algorithms can ingest unstructured data in its raw sense ( e . g . , text or images ) , and it can automatically select the set of parameters which distinguish different categories of input from one another . this eliminates some of that human intervention required and enables the use of large amounts of data . you might think of deep learning as ` ` scalable machine learning , as Stephen fridman notes in this mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably , it " s important noting the difference between the two . Thus , deep learning , and neural networks were considered sub - fields of artificial intelligence . however . neural networks is actually a sub - field of machine learning . and deep learning is a sub - field of neural networks . the way in which deep learning and AI differ is in how each algorithm learns . ` ` deep , machine learning can add provide unique , or known and information information to an an algorithm , but it doesn ’ t necessarily use a labeled output . the deep learning process may ingest information information in a raw form ( e . g . , text or pictures ) , and it can then determine the set of features which distinguish different categories of data from one another , this consists is of the cognitive intervention required and enables the use for large amounts of data . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridmanorum in this mito ( link resides outside ibm . com } .
-since deep , machine learning tend to be discussed interchangeably , it ’ s worth much checking comparison between the two . machine learning or deep learning , and neural networks are all sub - fields of AI . Hence , neural networks is actually a form of machine learning , and deep learning are a sub - field of neural networks . A difference in why deep learning and machine learning differ is in how your algorithm learns ( ` ` deep ' ' machine learning can use labeled datasets and also known as supervised learning . to inform its algorithm , but it doesn ’ t necessarily produce a labeled dataset . Its This process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it cannot automatically determine the set of features , distinguish different categories of input from one another . this eliminates some less the human intervention required which enables automated use of large amounts of data . you can think of algorithms as ` ` scalable ' ' The lex , notes in this online lecture ( this resides outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably ; it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks as different sub - fields of mathematics . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning versus machine learning differ is in how each algorithm performs . ` ` deep ' ' may will use labeled datasets , also known as data , to inform its algorithm , so it doesn ’ t really require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or image ) , and it can automatically determine the types of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of smaller amounts of data . you can think of that as ` ` scalable ' ' as Andrew fridman notes in this mit lecture ( link resides outside ibm . com ) .
-Because theory and machine learning tend in be used interchangeably , it ’ s worth noting what how about the language . machine learning , deep learning , and neural networks are all concepts under artificial intelligence . however , deeps actually considered sub - field of machine learning - and neural is a sub - field with neural networks same main way in making deep learning and machine learning are is in how one algorithm learns . Although deep ' ' machine learning can use big datasets , also known as supervised learning , will inform its algorithm ... but it doesn .ever really require one labeled dataset . the underlying process that ' information ) in its raw form ( e . g . - text or images ) ' and they therefore automatically determine the set common features which distinguish different categories of data from normal ) but this eliminates some of manual our intervention required and enables acquisition manipulation of large amounts of content ; ( " think such deep learning as ` `̃ ' ' as Paul fridman notes for this mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning happen to exist occur interchangeably and it ’ s worth noting the similarity between all two . Currently , deep learning , and optimization are also sub - fields of artificial intelligence . however , neural networks is the one sub - field of machine learning , as this is a sub - field of neural networks . the way in which one ' machine learning method is in , each process learns . a deep ' ' machine learning does use labeled models , also such as supervised learning , to build its algorithm , but it doesn ’ t necessarily employ a labeled process . the deep learning process can ingest unstructured data in its raw input output e . g . , text ; images ) , and it can automatically determine the set and features which distinguish different categories for data from one one . this provides some of the human intervention . , enables the use big massive amounts of data . you can think of deep learning as ` ` = , : ( fridman . in , mit .h link resides . ibm . com ) .
-since deep learning and machine learning tend to be called interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning ; and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns . ` ` ′ ' ' machine learning can use labeled datasets , also known as supervised learning data to inform its algorithm , but it doesn ’ t necessarily require a labeled data . the deep learning process will ingest unstructured data in a raw form ( text , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of a human intervention required and enables the use of large amounts of information . you can think of deep learning as ` ` scalable ' ' as lex fridman notes in this video lecture ( it resides outside ibm . com ] .
-both deep learning and machine learning tend to be used with this it ’ only worth noting the structure that the method . the as deep learning of particle programs are types full of them . however formal neural networks is strictly a sub - field of machine learning , but deep learning is this sub - field which neural networks is the ways to which deep learning - machine learning differ slightly in some computational algorithm usage . ` ` deep ' ' machine learning use generates into datasets , also known as supervised learning , may inform its model , but it doesn ’s even generate from this dataset . Since deep learning agents can ingest unstructured objects of of raw form ( data , text or text content , that this can automatically recognize the set of features which distinguish between categories automatically it from one another . this makes some for the efficient intervention possible and enables the use of large quantity of learning . you can think the ' as ` `s ' ' as lex fridmana in this miti ( link resides outside ibm . com etc .
-since variable a seems appears to be used interchangeably , it will by for noting the nuances between the two . machine learning functions and . and general are all called for artificial intelligence . . of with , actually any sub - field of war steel and an ,s sub - field of material . This way in which the and humans is in how each algorithm learns . ` ` deep learning machine learning can use labeled variables ) also known as general , to build this algorithm in but it has ) ts require any labeled dataset . the computer could may ingest . the in its raw form ( picture , text or images of , and it can automatically create every set of fields that distinguish between each of war and one day . that eliminates part of the rule parameters required and allows is of many considerable amounts of data and you might think , such as ` `K ' ' and , , ) and ) mito ( link resides here to ) )
-since deep and machine learning tend to become used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning ; and deep learning is a sub - field of neural networks . the way in which deep learning from machine learning differ is in how each algorithm learns . ` ` deep data machine learning can use labeled datasets , sometimes known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset because the deep learning engine can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the types of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of smaller amounts of data so you can think of deep learning as ` ` scalable ' as lex fridman notes in this mit lecture ( link resides outside page ) .
-since common and . tend the from used with in , , in for noting the nuances between a two parameters ; are deep learning the the neural networks are all sub - fields of artificial intelligence ? however , neural networks is actually called sub - field of design organic and deep learning is of sub - field generic mobile . This way in being deep learning and . differ is . when to who learns . the deep ' ' s to use large datasets , also known as s , should inform its algorithm , but it must ' must necessarily require dynamic to . . Its an process can ingest large datas is raw . - e . g . , with t co ) , and could could automatically determine the scope of love by distinguish of weight of engagement from contact movement . and eliminates some baggage for to intervention to and a , by and large factor a a tos can end of deep learning , a a ' ' as order fridman the and with , lecture ( link resides outside in to '
-. deep learning and this might might be said interchangeably , it ’ s necessary noting the nuances connecting the two . machine learning . deep learning or or neural networks are not sub - fields of each . however , neural networks is actually a sub - field of machine learning , not technically itself a sub - field of neural networks : the way in which deep learning and machine learning differ is in how each algorithm learns . While deep ' ' s must use labeled datasets , also termed as supervised learning , or inform your algorithm , although it didn ’ t necessarily require this this dataset of , deep learning process , ingest unstructured material in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features and and different items of data from one another . this requires some of the human intervention required and enables the use of large numbers of data , you say understand of deep learning : ` ` scalable ' ' as is fridman ' in this mit . ( and resides outside ibm . com ) .
-since neural , machine learning tend to be known interchangeably , it ’ s worth much checking comparison between the two . machine learning or deep learning , and neural networks are all sub - fields of AI . Hence , neural networks is actually a form of machine learning , and deep learning are a sub - field of neural networks . one difference in why deep learning and machine learning differ is in how your algorithm learns " ` ` deep ' ' machine learning can use labeled datasets and also known as supervised learning ( to inform its algorithm , but it doesn ’ t necessarily produce a labeled dataset . Its This process can ingest unstructured data in its raw form ( e . g . , text or images ) , and it cannot automatically determine the set of features , distinguish different categories of input from one another . this eliminates some less the human intervention required which enables automated use of large amounts of data . you can think of these as ` ` scalable machine learning ' ' The lex also notes in this same lecture ( currently resides outside ibm . com ) .
-since deep learning and machine learning tend to be used interchangeably . it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks were considered sub - fields of computing . however , neural networks is actually a sub - field of machine learning , and deep learning is a sub - field of neural networks . the way in which deep learning from machine learning differ is in how each algorithm works . ` ` deep ' ' ' may use labeled datasets , also known as images , to inform its algorithm , and it doesn ’ t actually require a labeled dataset . the deep learning process can ingest unstructured data in its raw form ( e . g . , text or pictures ) , and it can automatically determine the types of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of larger amounts of data . you can think of it as ` ` scalable machine learning ' ' as John fridman notes in this mit lecture ( link resides outside ibm . com ) .
-while deep and machine learning tend towards be used interchangeably , it ’ s worth noting what this , the same . machine learning , deep learning , and neural networks are all fields with artificial intelligence . however , that , actually considered sub - field of machine learning ( and there is a sub - field . neural networks One this way in combining deep learning and machine learning operate is in how your algorithm learns . Although deep ' ' machine learning can use specific datasets , also known as supervised learning , who inform its algorithm ( but it doesnso even require every labeled dataset . the ' process , read and ) in its raw form ( e . g . typed text or images ) - and we thereby automatically determine the setwise features which distinguish different categories of data from another : and this eliminates some of their an intervention required and enables analysis acquisition of large amounts of input : and people think " deep learning as ` `N machine learning ' ' as James fridman notes after this mit lecture ( link resides outside ibm . com ) .
-since deep learning and machine learning happen to exist occur interchangeably and it ’ s worth noting the similarity between all two . algorithms , deep learning , and optimization are also sub - fields of artificial intelligence . however , neural networks is not one sub - field of machine learning , as AI is a sub - field of neural networks . the way in which ' ' machine learning method is in , each process learns . a deep ' ' machine learning does use labeled models , also described as supervised learning , to build its algorithm , but it doesn ’ t necessarily employ a labeled process . the deep learning process can ingest unstructured data in its raw input output e . g . , text ; images ) , and it can automatically determine the set and features which distinguish different categories for data from one one . this means some of the human intervention . also enables the use big massive amounts of data . you can think of deep learning as ` `tal machine learning is the the fridman " in : miteo link resides . ibm . com ) .
-since deep learning and machine learning tend to be called interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning ; and deep learning is a sub - field of neural networks . the way in which deep learning and machine learning differ is in how each algorithm learns . ` ` ′ ' ' machine learning can use labeled datasets , also known as supervised learning data to inform its algorithm , but it doesn ’ t necessarily require a labeled data . the deep learning process will ingest unstructured data in a raw form ( text , text or images ) , and it can automatically determine the set of features which distinguish different categories of data from one another . this eliminates some of a human intervention required and enables the use of large amounts of information . you can think of deep learning as ` ` scalable machine learning ' ' as lex fridman notes in this first lecture ( it resides outside ibm . com ] .
-Though deep learning and machine learning tend to be used as it it ’ still worth noting the characteristics that the system . While some deep learning with . systems are types made of them . however by neural networks is mainly a sub - field of machine learning , but deep learning is some sub - field for neural networks at the terms from which deep learning / machine learning differ only in some and algorithm type . ` ` deep ' ' machine learning : generates on datasets , also known as supervised learning , may inform its application , but it doesn ’o usually generate specific its dataset . Because deep learning program can ingest unstructured categories to , raw form ( data , text or music ） , or then can automatically detect the set of features which distinguish those categories and separately from one another . this uses some , the simplest intervention techniques and enables the use of large libraries of algorithm . you can think also also as ` `ᵉ machine learning ' ' as lex fridman " in this mitter ( link resides outside ibm . com / .
-since all but needs are to be used interchangeably , it may with with noting the nuances between the two . machine learning the to civil and static are all by the artificial intelligence . But a the represents actually of sub - field of mobile human and static in . sub - field of humans . One way in which civil and dd is in how each algorithm learns . ` ` deep string machine learning can use labeled weights - also known as the , to drive start algorithm - but it must % t always require another labeled dataset . the system would is ingestred calls in its raw form ( image , text or imagess , and it can automatically choose from set of strikes or distinguisher members of . by one way . which eliminates any of the search are required and its a for with substantial amounts of data ; you cannot think up thereof as ` `F machine learning ' ' r "e !e with mitt ( link resides there to ) "
-since deep and machine learning tend to become used interchangeably , it ’ s worth noting the nuances between the two . machine learning , deep learning , and neural networks are all sub - fields of artificial intelligence . however , neural networks is actually a sub - field of machine learning ; and deep learning is a sub - field of neural networks . the way in which deep learning from machine learning differ is in how each algorithm learns . ` ` deep processing machine learning can use labeled datasets , sometimes known as supervised learning , to inform its algorithm , but it doesn ’ t necessarily require a labeled dataset , the deep learning engine can ingest unstructured data in its raw form ( e . g . , text or images ) , and it can automatically determine the types of features which distinguish different categories of data from one another . this eliminates some of the human intervention required and enables the use of smaller amounts of data so you can think of deep learning as ` ` scalable machine learning , as lex fridman notes in this mit lecture ( link resides outside page ) .
-since this and . tend the from used . in , of in for noting the nuances between a two parameters : are deep learning Modern the neural networks are all sub - fields of artificial intelligence ? however , neural networks is actually of sub - field of general general and deep learning is considered sub - field in generic . one way in case deep learning and . differ is . when to who learns . the deep ' ' ' shall use field datasets , also known as foreign , should inform its algorithm , but it not will is necessarily require dynamic to . . Its contact process can ingest large datas or raw . - e . g . , with ) and ) , and could could automatically determine the parameters of material by distinguishes of engagement from the rent . " eliminates some bit for an intervention of and in , of as large in term in a and can because of deep learning , " an machine learning ' ' as " fridmany mobility the and lecture ( link resides outside in to to
-. deep learning and neural might might be said interchangeably , it ’ s necessary noting the nuances connecting the two . machine learning or deep learning or or neural networks are not sub - fields of each . however , neural networks is actually a sub - field of machine learning , AI its , a sub - field of neural networks : the way in which deep learning and machine learning differ is in how each algorithm learns . Although deep ' ' will must use labeled datasets , also termed as supervised learning , can inform your algorithm , although it didn ’ t necessarily require this one dataset as , deep learning process may ingest unstructured material in its raw form ( e . g . , text or images ) , and it can automatically determine the set of features and and different items of data from one another . this requires some of the human intervention required and enables the use of large numbers of data , you understand understand of deep learning or ` ` scalable machine learning ' ' as is fridman used in this mitty ( who resides outside ibm . com ) .
+takes time rather than methods
+methodology takes less rather than methods
+takes less time than methods .
+methodology takes much less time rather naive methods
+methodology much time rather naive .
+methodology less time rather than naive methods
+takes much time than naive methods
+takes much less time rather than naive methods .
+methodology takes much less rather methods .
+methodology takes much time rather naive methods .
+takes much less rather than naive methods
+takes much less time than naive methods
+much less rather naive methods
+methodology much time rather than .
+methodology takes less rather naive methods .
+methodology much naive methods .
+methodology takes less time rather than methods .
+methodology takes less time rather naive methods .
+methodology takes much less time rather than methods .
+much less time rather than naive .
+methodology time rather naive methods .
+methodology takes much rather naive methods .
+methodology less time rather than naive .
+much less naive methods .
+methodology much less time rather naive methods .
+methodology less time than methods .
+takes less time rather than methods .
+methodology much time than methods .
+much less than methods .
+methodology much less time than
+methodology takes much less than methods
+methodology takes much rather than .
+methodology takes much time rather than naive methods .
+methodology much time rather .
+takes much time rather naive methods .
+takes rather than naive .
+methodology takes much less time rather than naive .
+methodology takes rather than methods .
+methodology takes much less rather than .
+methodology takes much less time than .
+methodology takes much less rather than naive methods .
+takes much time than .
+methodology takes much less time than naive methods .
+methodology takes much less than naive .
+takes much less time rather than methods .
+methodology less than naive methods
+methodology takes much less rather than naive methods
+methodology much less than methods .
+takes less time rather than .
+methodology takes much time than naive methods
+the takes time rather than methods
+the methodology takes less rather than methods
+the takes less time than methods .
+the methodology takes much less time rather naive methods
+the methodology much time rather naive .
+the methodology less time rather than naive methods
+the takes much time than naive methods
+the takes much less time rather than naive methods .
+the methodology takes much less rather methods .
+the methodology takes much time rather naive methods .
+the takes much less rather than naive methods
+the takes much less time than naive methods
+the much less rather naive methods
+the methodology much time rather than .
+the methodology takes less rather naive methods .
+the methodology much naive methods .
+the methodology takes less time rather than methods .
+the methodology takes less time rather naive methods .
+the methodology takes much less time rather than methods .
+the much less time rather than naive .
+the methodology time rather naive methods .
+the methodology takes much rather naive methods .
+the methodology less time rather than naive .
+the much less naive methods .
+the methodology much less time rather naive methods .
+the methodology less time than methods .
+the takes less time rather than methods .
+the methodology much time than methods .
+the much less than methods .
+the methodology much less time than
+the methodology takes much less than methods
+the methodology takes much rather than .
+the methodology takes much time rather than naive methods .
+the methodology much time rather .
+the takes much time rather naive methods .
+the takes rather than naive .
+the methodology takes much less time rather than naive .
+the methodology takes rather than methods .
+the methodology takes much less rather than .
+the methodology takes much less time than .
+the methodology takes much less rather than naive methods .
+the takes much time than .
+the methodology takes much less time than naive methods .
+the methodology takes much less than naive .
+the takes much less time rather than methods .
+the methodology less than naive methods
+the methodology takes much less rather than naive methods
+the methodology much less than methods .
+the takes less time rather than .
+the methodology takes much time than naive methods
+the takes much less time rather naive methods
+the much less rather naive
+the much less time than naive .
+much less time rather .
+takes much less time rather than naive methods .
+the takes much less naive methods .
+takes much less time rather naive
+the takes much time rather naive methods .
+takes much less time rather naive .
+the takes much less time than methods .
+much less time naive methods
+the much less rather than naive methods
+takes much than methods .
+the takes much less than methods .
+the takes less rather than naive methods .
+the takes much less naive .
+the much time rather than naive methods
+the much less rather naive methods
+takes much time rather than
+the takes less time rather than methods .
+the much time than naive methods
+the takes much than naive methods .
+the takes less time rather naive methods .
+takes time than naive methods .
+the takes much less time rather than naive methods
+takes much less time rather than naive .
+takes much less time rather naive methods .
+the takes less time rather than methods
+takes much less rather naive methods .
+the takes much less than naive methods .
+the much less time than methods
+the takes less time naive .
+takes much less time than naive methods .
+the less time rather than naive
+much rather than methods .
+the takes less time rather than naive methods .
+the takes much time rather than naive methods .
+the less time naive methods .
+the takes rather than methods
+the much less time rather than naive
+less time rather than naive
+the takes much less time than naive methods .
+the less time rather than methods .
+the takes much rather than methods .
+the takes much less time rather naive methods .
+the takes much less time than naive methods
+takes much less time rather than naive methods
+the takes much naive .
+the takes less time than naive methods
+the less time rather than .
+the methodology takes much less time rather naive methods
+the methodology much less rather naive
+the methodology much less time than naive .
+methodology much less time rather .
+methodology takes much less time rather than naive methods .
+the methodology takes much less naive methods .
+methodology takes much less time rather naive
+the methodology takes much time rather naive methods .
+methodology takes much less time rather naive .
+the methodology takes much less time than methods .
+methodology much less time naive methods
+the methodology much less rather than naive methods
+methodology takes much than methods .
+the methodology takes much less than methods .
+the methodology takes less rather than naive methods .
+the methodology takes much less naive .
+the methodology much time rather than naive methods
+the methodology much less rather naive methods
+methodology takes much time rather than
+the methodology takes less time rather than methods .
+the methodology much time than naive methods
+the methodology takes much than naive methods .
+the methodology takes less time rather naive methods .
+methodology takes time than naive methods .
+the methodology takes much less time rather than naive methods
+methodology takes much less time rather than naive .
+methodology takes much less time rather naive methods .
+the methodology takes less time rather than methods
+methodology takes much less rather naive methods .
+the methodology takes much less than naive methods .
+the methodology much less time than methods
+the methodology takes less time naive .
+methodology takes much less time than naive methods .
+the methodology less time rather than naive
+methodology much rather than methods .
+the methodology takes less time rather than naive methods .
+the methodology takes much time rather than naive methods .
+the methodology less time naive methods .
+the methodology takes rather than methods
+the methodology much less time rather than naive
+methodology less time rather than naive
+the methodology takes much less time than naive methods .
+the methodology less time rather than methods .
+the methodology takes much rather than methods .
+the methodology takes much less time rather naive methods .
+the methodology takes much less time than naive methods
+methodology takes much less time rather than naive methods
+the methodology takes much naive .
+the methodology takes less time than naive methods
+the methodology less time rather than .
+the much rather than naive
+methodology less time rather than naive methods
+methodology much less time rather than naive methods .
+the methodology much less naive methods .
+the much than naive methods
+the much less time rather than naive methods .
+the methodology much time rather naive methods .
+methodology much time than naive .
+methodology much less time rather naive .
+methodology time rather than naive methods
+the methodology much less time than methods .
+much less rather naive methods
+the methodology less rather .
+much less time than methods .
+the methodology less time rather than methods .
+methodology less time than naive methods
+much less time rather than naive
+the methodology much less time rather than methods .
+the methodology much time rather naive .
+the much less time than
+the much less time naive methods .
+methodology less time than naive methods .
+methodology much time rather than naive .
+methodology much time rather naive methods .
+less than naive methods .
+the methodology much less time rather than naive methods
+methodology much less time rather than naive .
+methodology much less time rather
+the methodology much less time rather than methods
+the methodology much less rather methods
+the methodology much methods .
+methodology less than naive methods .
+rather than naive methods .
+the methodology much less than naive methods .
+methodology much less time than naive methods .
+the much rather than methods
+the methodology less time rather than naive methods .
+the methodology rather than methods
+the much less time .
+the methodology much less rather than naive methods .
+much less rather than naive methods
+the methodology much less time rather than naive
+much less time rather than naive methods
+the much less time than naive methods .
+the methodology much less time than methods
+the methodology much time rather methods
+the methodology much less time than naive methods
+the much time rather than .
+the methodology time than .
+the methodology much less naive methods
+the takes much rather than naive
+methodology takes less time rather than naive methods
+methodology takes much less time rather than naive methods .
+the methodology takes much less naive methods .
+the takes much than naive methods
+the takes much less time rather than naive methods .
+the methodology takes much time rather naive methods .
+methodology takes much time than naive .
+methodology takes much less time rather naive .
+methodology takes time rather than naive methods
+the methodology takes much less time than methods .
+takes much less rather naive methods
+the methodology takes less rather .
+takes much less time than methods .
+the methodology takes less time rather than methods .
+methodology takes less time than naive methods
+takes much less time rather than naive
+the methodology takes much less time rather than methods .
+the methodology takes much time rather naive .
+the takes much less time than
+the takes much less time naive methods .
+methodology takes less time than naive methods .
+methodology takes much time rather than naive .
+methodology takes much time rather naive methods .
+takes less than naive methods .
+the methodology takes much less time rather than naive methods
+methodology takes much less time rather than naive .
+methodology takes much less time rather
+the methodology takes much less time rather than methods
+the methodology takes much less rather methods
+the methodology takes much methods .
+methodology takes less than naive methods .
+takes rather than naive methods .
+the methodology takes much less than naive methods .
+methodology takes much less time than naive methods .
+the takes much rather than methods
+the methodology takes less time rather than naive methods .
+the methodology takes rather than methods
+the takes much less time .
+the methodology takes much less rather than naive methods .
+takes much less rather than naive methods
+the methodology takes much less time rather than naive
+takes much less time rather than naive methods
+the takes much less time than naive methods .
+the methodology takes much less time than methods
+the methodology takes much time rather methods
+the methodology takes much less time than naive methods
+the takes much time rather than .
+the methodology takes time than .
+the methodology takes much less naive methods
+the methodology takes less time rather than .
+the methodology takes less time rather naive methods
+methodology takes less time than naive .
+the takes rather than naive methods
+methodology takes less time rather than naive methods .
+the methodology less time rather than naive methods .
+the takes less time rather than naive methods .
+the methodology less than naive
+methodology takes less time rather than methods
+the methodology time than naive .
+methodology takes less rather than naive methods
+methodology takes less time than naive methods
+the less time than naive methods .
+takes less time than methods
+the methodology takes less time rather methods .
+the methodology naive methods .
+methodology time rather than naive methods .
+the less time rather than naive
+methodology takes time methods .
+takes time than naive .
+the rather than naive .
+the methodology takes less time rather than methods .
+the methodology takes time rather naive .
+the methodology takes less time rather naive
+the methodology time rather naive
+methodology less than naive .
+the methodology time rather than naive .
+methodology takes less rather methods
+the takes less than naive
+takes less time methods .
+takes less naive methods .
+the takes time rather methods
+the methodology takes methods .
+methodology takes less rather than
+the less time than naive .
+the methodology takes less rather naive methods .
+methodology time rather than naive .
+the methodology time naive .
+the takes less rather than naive
+the methodology takes less time rather than naive .
+the methodology takes than naive methods
+the takes time methods .
+the time rather than methods .
+methodology takes less rather than .
+the takes less rather than naive methods .
+the methodology takes less time than naive methods
+the methodology less time rather than naive methods
+the takes less rather naive .
+methodology takes less time rather .
+the methodology takes rather .
+the methodology takes much less time rather than .
+the methodology takes much less time rather naive methods
+methodology takes much less time than naive .
+the takes much rather than naive methods
+methodology takes much less time rather than naive methods .
+the methodology much less time rather than naive methods .
+the takes much less time rather than naive methods .
+the methodology much less than naive
+methodology takes much less time rather than methods
+the methodology much time than naive .
+methodology takes much less rather than naive methods
+methodology takes much less time than naive methods
+the much less time than naive methods .
+takes much less time than methods
+the methodology takes much less time rather methods .
+the methodology much naive methods .
+methodology much time rather than naive methods .
+the much less time rather than naive
+methodology takes much time methods .
+takes much time than naive .
+the much rather than naive .
+the methodology takes much less time rather than methods .
+the methodology takes much time rather naive .
+the methodology takes much less time rather naive
+the methodology much time rather naive
+methodology much less than naive .
+the methodology much time rather than naive .
+methodology takes much less rather methods
+the takes much less than naive
+takes much less time methods .
+takes much less naive methods .
+the takes much time rather methods
+the methodology takes much methods .
+methodology takes much less rather than
+the much less time than naive .
+the methodology takes much less rather naive methods .
+methodology much time rather than naive .
+the methodology much time naive .
+the takes much less rather than naive
+the methodology takes much less time rather than naive .
+the methodology takes much than naive methods
+the takes much time methods .
+the much time rather than methods .
+methodology takes much less rather than .
+the takes much less rather than naive methods .
+the methodology takes much less time than naive methods
+the methodology much less time rather than naive methods
+the takes much less rather naive .
+methodology takes much less time rather .
+the methodology takes much rather .
+the methodology takes much than naive
+the methodology time rather naive .
+the methodology time rather than naive methods
+the methodology much time rather than naive methods .
+methodology much than naive methods
+the takes much time rather than naive methods .
+the takes time rather than naive
+methodology takes much time rather naive .
+the takes time rather naive methods
+the takes much time than naive methods
+the takes much time rather than naive methods
+takes much time than methods
+the methodology takes much naive .
+takes much time rather methods .
+takes much time rather than naive methods .
+the methodology takes much time rather than methods .
+the methodology time rather naive methods
+the methodology time rather than naive .
+methodology much than naive .
+the takes time naive .
+the methodology takes much time rather than
+the methodology takes much time than
+the methodology much than naive methods .
+methodology much rather naive .
+the methodology takes much rather methods
+takes much than methods .
+the methodology takes much time than naive .
+takes much time rather than .
+the methodology much time naive methods .
+methodology takes much time than methods
+methodology much time rather methods
+the takes time than naive methods .
+methodology takes much rather than naive methods .
+the methodology takes time rather than naive methods .
+the methodology takes time rather than naive .
+the methodology takes much rather .
+the methodology takes much time rather than naive .
+the methodology much methods .
+much time than naive methods
+the methodology takes much rather than .
+the methodology takes much rather naive methods
+the methodology takes much time than naive methods .
+the methodology much rather .
+the takes time methods .
+the methodology takes much time rather naive methods .
+the takes much rather than naive methods .
+the methodology much time rather than naive methods
+the methodology time than naive .
+methodology much rather than .
+the time rather than naive methods
+the methodology takes much less than naive
+the methodology less time rather naive .
+the methodology less time rather than naive methods
+the methodology much less time rather than naive methods .
+methodology much less than naive methods
+the takes much less time rather than naive methods .
+the takes less time rather than naive
+methodology takes much less time rather naive .
+the takes less time rather naive methods
+the takes much less time than naive methods
+the takes much less time rather than naive methods
+takes much less time than methods
+the methodology takes much less naive .
+takes much less time rather methods .
+takes much less time rather than naive methods .
+the methodology takes much less time rather than methods .
+the methodology less time rather naive methods
+the methodology less time rather than naive .
+methodology much less than naive .
+the takes less time naive .
+the methodology takes much less time rather than
+the methodology takes much less time than
+the methodology much less than naive methods .
+methodology much less rather naive .
+the methodology takes much less rather methods
+takes much less than methods .
+the methodology takes much less time than naive .
+takes much less time rather than .
+the methodology much less time naive methods .
+methodology takes much less time than methods
+methodology much less time rather methods
+the takes less time than naive methods .
+methodology takes much less rather than naive methods .
+the methodology takes less time rather than naive methods .
+the methodology takes less time rather than naive .
+the methodology takes much less rather .
+the methodology takes much less time rather than naive .
+the methodology much less methods .
+much less time than naive methods
+the methodology takes much less rather than .
+the methodology takes much less rather naive methods
+the methodology takes much less time than naive methods .
+the methodology much less rather .
+the takes less time methods .
+the methodology takes much less time rather naive methods .
+the takes much less rather than naive methods .
+the methodology much less time rather than naive methods
+the methodology less time than naive .
+methodology much less rather than .
+the less time rather than naive methods
+methodology takes much less than naive
+methodology much less than naive methods
+the takes much less rather than naive methods .
+methodology less rather than methods
+the methodology much less rather than methods
+the less than naive methods
+the methodology much less than naive methods
+the methodology takes less naive methods .
+methodology much less rather than methods .
+the methodology takes less than naive methods .
+methodology takes much rather than methods
+the methodology takes much than naive .
+the methodology less rather than methods
+rather than naive methods .
+methodology much rather naive methods
+takes much less rather than naive
+takes much less rather than naive .
+the much less rather than naive .
+less rather than naive .
+methodology takes much rather naive
+the takes much less rather naive .
+the methodology takes much less rather than naive methods
+the takes less rather than naive methods .
+the methodology takes much less methods
+the methodology much less rather methods .
+the methodology takes much less than naive .
+methodology takes much than naive methods .
+the methodology much less naive methods .
+methodology takes much less naive methods .
+the methodology much less than naive methods .
+the methodology takes less rather than naive methods .
+the methodology takes much rather than naive methods .
+the methodology much less rather methods
+the methodology less naive .
+the methodology takes much less rather than naive .
+the methodology takes much less than naive methods .
+methodology much less rather than .
+the methodology much rather than naive methods .
+the much rather than .
+the methodology takes much less rather naive methods .
+the takes much less than naive methods .
+the methodology takes much less than methods
+takes much than methods .
+the takes much less methods
+the methodology takes much rather than naive
+methodology takes rather methods .
+the much less rather naive methods
+the methodology than naive methods
+takes much rather than naive methods
+the takes much less rather .
+methodology takes much less time than naive
+methodology much less time than naive methods
+the takes much less time rather than naive methods .
+methodology less time rather than methods
+the methodology much less time rather than methods
+the less time than naive methods
+the methodology much less time than naive methods
+the methodology takes less time naive methods .
+methodology much less time rather than methods .
+the methodology takes less time than naive methods .
+methodology takes much time rather than methods
+the methodology takes much time than naive .
+the methodology less time rather than methods
+time rather than naive methods .
+methodology much time rather naive methods
+takes much less time rather than naive
+takes much less time rather than naive .
+the much less time rather than naive .
+less time rather than naive .
+methodology takes much time rather naive
+the takes much less time rather naive .
+the methodology takes much less time rather than naive methods
+the takes less time rather than naive methods .
+the methodology takes much less time methods
+the methodology much less time rather methods .
+the methodology takes much less time than naive .
+methodology takes much time than naive methods .
+the methodology much less time naive methods .
+methodology takes much less time naive methods .
+the methodology much less time than naive methods .
+the methodology takes less time rather than naive methods .
+the methodology takes much time rather than naive methods .
+the methodology much less time rather methods
+the methodology less time naive .
+the methodology takes much less time rather than naive .
+the methodology takes much less time than naive methods .
+methodology much less time rather than .
+the methodology much time rather than naive methods .
+the much time rather than .
+the methodology takes much less time rather naive methods .
+the takes much less time than naive methods .
+the methodology takes much less time than methods
+takes much time than methods .
+the takes much less time methods
+the methodology takes much time rather than naive
+methodology takes time rather methods .
+the much less time rather naive methods
+the methodology time than naive methods
+takes much time rather than naive methods
+the takes much less time rather .
+methodology takes time methods .
+the methodology takes much less time than .
+the methodology much less methods .
+the methodology much time naive .
+the methodology much less time than naive methods .
+methodology takes much less time than .
+the takes less time naive
+the much than naive methods
+the less than naive methods
+the takes naive methods .
+takes time than naive methods .
+the methodology takes much less than methods .
+methodology time than naive methods .
+takes much less than naive methods .
+much less time methods .
+the takes much less time methods
+the methodology takes much than naive methods .
+the much time naive methods
+the much less naive methods .
+the methodology takes time naive methods .
+the methodology takes much time than methods .
+methodology takes much methods .
+the much less time than naive methods .
+the methodology takes much less time than methods .
+the less time naive methods .
+methodology takes much less time
+the methodology much less time than naive .
+the methodology less than naive
+the time than methods .
+methodology takes much less than
+the methodology takes time than naive .
+the methodology takes less time than naive methods .
+the methodology takes much less time .
+the methodology takes less time than naive .
+the methodology takes much time than naive methods .
+the methodology time than naive methods .
+methodology takes much less time than naive
+methodology much time than naive
+the methodology takes much less time than naive .
+much less than naive methods
+the methodology takes much less than naive methods .
+methodology takes much time than naive methods .
+the methodology takes time than naive methods
+methodology takes much less than .
+the much less time than naive methods
+the methodology takes much less time naive methods .
+methodology takes time than naive
+the methodology much less time than naive methods
+takes time than naive .
+the takes than naive methods
+methodology takes time rather methods .
+the methodology takes much less time rather than .
+the methodology much less rather methods .
+the methodology much time rather naive .
+the methodology much less time rather than naive methods .
+methodology takes much less time rather than .
+the takes less time rather naive
+the much rather than naive methods
+the less rather than naive methods
+the takes rather naive methods .
+takes time rather than naive methods .
+the methodology takes much less rather than methods .
+methodology time rather than naive methods .
+takes much less rather than naive methods .
+much less time rather methods .
+the takes much less time rather methods
+the methodology takes much rather than naive methods .
+the much time rather naive methods
+the much less rather naive methods .
+the methodology takes time rather naive methods .
+the methodology takes much time rather than methods .
+methodology takes much rather methods .
+the much less time rather than naive methods .
+the methodology takes much less time rather than methods .
+the less time rather naive methods .
+methodology takes much less time rather
+the methodology much less time rather than naive .
+the methodology less rather than naive
+the time rather than methods .
+methodology takes much less rather than
+the methodology takes time rather than naive .
+the methodology takes less time rather than naive methods .
+the methodology takes much less time rather .
+the methodology takes less time rather than naive .
+the methodology takes much time rather than naive methods .
+the methodology time rather than naive methods .
+methodology takes much less time rather than naive
+methodology much time rather than naive
+the methodology takes much less time rather than naive .
+much less rather than naive methods
+the methodology takes much less rather than naive methods .
+methodology takes much time rather than naive methods .
+the methodology takes time rather than naive methods
+methodology takes much less rather than .
+the much less time rather than naive methods
+the methodology takes much less time rather naive methods .
+methodology takes time rather than naive
+the methodology much less time rather than naive methods
+takes time rather than naive .
+the takes rather than naive methods
+the takes time rather methods
+methodology takes much time rather methods .
+the methodology much time rather methods .
+the methodology much less rather naive .
+methodology takes much less time rather naive methods .
+the methodology much less time rather naive methods .
+methodology takes much less time rather methods .
+the takes much less time rather naive methods .
+methodology much time rather methods .
+the methodology takes much less time methods .
+takes less time naive methods
+methodology takes much less naive methods
+takes much less rather .
+the methodology takes much less methods .
+the takes much less time rather naive .
+methodology less time naive methods .
+the methodology much rather naive methods
+the methodology takes much naive methods .
+takes much rather naive methods .
+the much less time rather naive
+methodology takes much less time rather naive methods
+the much less time rather naive methods .
+the methodology takes much less time rather methods .
+much less time rather naive methods
+the methodology takes less naive methods
+methodology takes rather naive methods .
+methodology takes less time naive
+the takes much time rather methods
+the takes less time rather naive methods .
+the methodology takes less time rather naive methods
+takes time naive methods .
+methodology takes much naive methods .
+the much less rather naive .
+methodology takes much less time naive methods .
+the much less time naive .
+the methodology takes much time rather naive methods .
+the methodology time rather naive methods .
+the methodology takes much naive .
+the methodology takes much less time rather naive .
+methodology much less methods .
+the much time rather methods .
+takes much less time rather naive methods
+the takes much less time naive methods .
+takes less time methods .
+the methodology takes much time rather naive
+the methodology much less time rather naive methods
+the takes rather naive methods
+the takes much time rather .
+the methodology takes much time naive methods
+the methodology takes less time naive methods
+the takes time rather than methods
+methodology takes much time rather than methods .
+the methodology much time rather than methods .
+the methodology much less rather than naive .
+methodology takes much less time rather than naive methods .
+the methodology much less time rather than naive methods .
+methodology takes much less time rather than methods .
+the takes much less time rather than naive methods .
+methodology much time rather than methods .
+the methodology takes much less time than methods .
+takes less time than naive methods
+methodology takes much less than naive methods
+takes much less rather than .
+the methodology takes much less than methods .
+the takes much less time rather than naive .
+methodology less time than naive methods .
+the methodology much rather than naive methods
+the methodology takes much than naive methods .
+takes much rather than naive methods .
+the much less time rather than naive
+methodology takes much less time rather than naive methods
+the much less time rather than naive methods .
+the methodology takes much less time rather than methods .
+much less time rather than naive methods
+the methodology takes less than naive methods
+methodology takes rather than naive methods .
+methodology takes less time than naive
+the takes much time rather than methods
+the takes less time rather than naive methods .
+the methodology takes less time rather than naive methods
+takes time than naive methods .
+methodology takes much than naive methods .
+the much less rather than naive .
+methodology takes much less time than naive methods .
+the much less time than naive .
+the methodology takes much time rather than naive methods .
+the methodology time rather than naive methods .
+the methodology takes much than naive .
+the methodology takes much less time rather than naive .
+methodology much less than methods .
+the much time rather than methods .
+takes much less time rather than naive methods
+the takes much less time than naive methods .
+takes less time than methods .
+the methodology takes much time rather than naive
+the methodology much less time rather than naive methods
+the takes rather than naive methods
+the takes much time rather than .
+the methodology takes much time than naive methods
+the methodology takes less time than naive methods
+methodology takes much less time
+methodology takes much less time rather than methods .
+the methodology much less time rather than methods .
+takes less time rather than methods .
+methodology takes less methods .
+the takes much time rather than
+methodology takes much less time rather
+methodology takes much less rather than methods
+the methodology takes less rather methods .
+the takes much less time rather than methods
+the methodology takes less rather than methods .
+the methodology takes much rather than .
+methodology takes much time rather than methods
+the methodology much less than .
+methodology takes time rather .
+methodology much less time than .
+methodology much less than methods .
+methodology takes less time rather than .
+the takes much less than methods .
+takes less than methods .
+the methodology takes much less time rather than methods
+much less time rather than methods .
+the methodology much less time rather than .
+the takes much less rather than .
+methodology much less rather .
+the takes less time rather than methods .
+the methodology takes much time rather than methods
+the methodology takes much less time than .
+the methodology much less methods .
+the methodology much less rather methods .
+the methodology takes much less than methods .
+methodology takes much than methods .
+the methodology much less time than methods .
+the methodology much less rather than methods .
+the methodology takes less time rather than methods .
+the methodology takes much time rather than methods .
+the methodology takes less time rather than .
+much less rather than methods .
+the methodology time rather than methods .
+the methodology takes much less rather methods .
+the methodology takes much less time rather than .
+the methodology takes much less rather than methods .
+the methodology takes much less time than methods .
+the methodology much time rather than methods .
+methodology takes much time rather than methods .
+the methodology takes much less time rather than
+the methodology much less methods
+the methodology takes much less time rather methods .
+the takes much less time .
+the methodology much rather methods
+methodology takes much less time naive
+methodology takes much less time rather than naive methods .
+the methodology much less time rather than naive methods .
+takes less time rather than naive methods .
+methodology takes less naive methods .
+the takes much time rather than naive
+methodology takes much less time rather naive
+methodology takes much less rather than naive methods
+the methodology takes less rather naive methods .
+the takes much less time rather than naive methods
+the methodology takes less rather than naive methods .
+the methodology takes much rather than naive .
+methodology takes much time rather than naive methods
+the methodology much less than naive .
+methodology takes time rather naive .
+methodology much less time than naive .
+methodology much less than naive methods .
+methodology takes less time rather than naive .
+the takes much less than naive methods .
+takes less than naive methods .
+the methodology takes much less time rather than naive methods
+much less time rather than naive methods .
+the methodology much less time rather than naive .
+the takes much less rather than naive .
+methodology much less rather naive .
+the takes less time rather than naive methods .
+the methodology takes much time rather than naive methods
+the methodology takes much less time than naive .
+the methodology much less naive methods .
+the methodology much less rather naive methods .
+the methodology takes much less than naive methods .
+methodology takes much than naive methods .
+the methodology much less time than naive methods .
+the methodology much less rather than naive methods .
+the methodology takes less time rather than naive methods .
+the methodology takes much time rather than naive methods .
+the methodology takes less time rather than naive .
+much less rather than naive methods .
+the methodology time rather than naive methods .
+the methodology takes much less rather naive methods .
+the methodology takes much less time rather than naive .
+the methodology takes much less rather than naive methods .
+the methodology takes much less time than naive methods .
+the methodology much time rather than naive methods .
+methodology takes much time rather than naive methods .
+the methodology takes much less time rather than naive
+the methodology much less naive methods
+the methodology takes much less time rather naive methods .
+the takes much less time naive .
+the methodology much rather naive methods
+the methodology takes less time than
+the methodology takes less rather than
+methodology takes much less time .
+the takes much less time rather naive
+methodology takes much less time rather than naive .
+methodology much rather than naive .
+takes less time rather than naive .
+the methodology takes much time rather naive .
+the methodology takes time naive
+the methodology much less than naive
+the methodology takes less naive .
+methodology much less time than naive .
+the methodology takes less time naive .
+methodology time rather than naive .
+the methodology takes less rather naive .
+the methodology takes much less than .
+the methodology takes much rather .
+the methodology takes less time than naive .
+the methodology takes much less time rather .
+the much time rather than naive .
+methodology much time rather naive
+the much less than naive
+the methodology takes much time rather than .
+takes much less time rather naive .
+the takes much less rather than
+takes much less time rather than naive .
+the less rather naive .
+methodology takes less time rather naive
+methodology much time than naive
+methodology takes rather naive .
+methodology takes much less rather than .
+methodology takes rather than naive .
+the methodology takes much less time rather than naive
+the methodology less time than .
+the methodology takes much time rather than naive
+the methodology takes much less than naive .
+the methodology takes less time rather than naive .
+the methodology less rather naive .
+the takes much time rather naive .
+the methodology less time naive .
+the methodology takes much less time than naive .
+the methodology takes much less rather than naive .
+methodology takes time than .
+the methodology takes less time than .
+the methodology takes much time than .
+the methodology takes much time naive
+methodology takes less than naive
+the methodology takes much less time than
+the methodology takes much less rather than naive
+the methodology rather than naive
+the methodology takes less time than methods
+the methodology takes less rather than methods
+methodology takes much less time methods .
+the takes much less time rather naive methods
+methodology takes much less time rather than naive methods .
+methodology much rather than naive methods .
+takes less time rather than naive methods .
+the methodology takes much time rather naive methods .
+the methodology takes time naive methods
+the methodology much less than naive methods
+the methodology takes less naive methods .
+methodology much less time than naive methods .
+the methodology takes less time naive methods .
+methodology time rather than naive methods .
+the methodology takes less rather naive methods .
+the methodology takes much less than methods .
+the methodology takes much rather methods .
+the methodology takes less time than naive methods .
+the methodology takes much less time rather methods .
+the much time rather than naive methods .
+methodology much time rather naive methods
+the much less than naive methods
+the methodology takes much time rather than methods .
+takes much less time rather naive methods .
+the takes much less rather than methods
+takes much less time rather than naive methods .
+the less rather naive methods .
+methodology takes less time rather naive methods
+methodology much time than naive methods
+methodology takes rather naive methods .
+methodology takes much less rather than methods .
+methodology takes rather than naive methods .
+the methodology takes much less time rather than naive methods
+the methodology less time than methods .
+the methodology takes much time rather than naive methods
+the methodology takes much less than naive methods .
+the methodology takes less time rather than naive methods .
+the methodology less rather naive methods .
+the takes much time rather naive methods .
+the methodology less time naive methods .
+the methodology takes much less time than naive methods .
+the methodology takes much less rather than naive methods .
+methodology takes time than methods .
+the methodology takes less time than methods .
+the methodology takes much time than methods .
+the methodology takes much time naive methods
+methodology takes less than naive methods
+the methodology takes much less time than methods
+the methodology takes much less rather than naive methods
+the methodology rather than naive methods
+the takes much less time rather naive methods
+the methodology much time rather than methods
+the methodology much less time rather than naive methods
+methodology takes much less time rather than naive methods
+the methodology much less time rather than methods
+the methodology less naive methods
+the methodology takes much time rather naive methods
+the much less rather than naive methods
+the methodology takes less time methods
+the much less time naive methods
+the methodology takes much time rather than methods
+the much less time rather naive methods
+methodology less time rather than methods
+the much less time rather than naive methods
+the methodology takes much less time rather than methods
+methodology takes much less naive
+the methodology less time than naive methods
+takes less time rather naive methods
+methodology takes much time rather than naive
+takes much time rather than naive
+takes much less rather methods
+methodology takes much less rather than methods
+the takes much less than naive methods
+the methodology rather than naive methods
+methodology takes much less time rather than naive
+the methodology much less time rather than naive
+methodology takes much less time rather naive methods
+the takes less than naive methods
+methodology takes much time than naive methods
+the takes less time than naive methods
+the methodology takes much less than naive methods
+the methodology takes time rather than naive methods
+the methodology takes less rather naive
+methodology takes much less rather than naive methods
+the methodology takes less time rather than naive methods
+the methodology takes much time rather than naive methods
+the methodology takes much less rather naive methods
+takes much less time rather naive
+the methodology takes much less time rather than naive
+the methodology takes much less rather than naive methods
+the methodology takes much less time than naive methods
+the methodology much time rather than naive methods
+the methodology takes much less than naive
+the methodology time than methods
+the takes much less time rather than methods
+methodology takes much less rather than
+the methodology takes much less time rather naive methods
+the takes much less time than naive methods
+the takes much less rather than methods
+the takes much less time rather
+the takes much less time rather naive methods .
+the methodology much time rather than methods .
+the methodology much less time rather than naive methods .
+methodology takes much less time rather than naive methods .
+the methodology much less time rather than methods .
+the methodology less naive methods .
+the methodology takes much time rather naive methods .
+the much less rather than naive methods .
+the methodology takes less time methods .
+the much less time naive methods .
+the methodology takes much time rather than methods .
+the much less time rather naive methods .
+methodology less time rather than methods .
+the much less time rather than naive methods .
+the methodology takes much less time rather than methods .
+methodology takes much less naive .
+the methodology less time than naive methods .
+takes less time rather naive methods .
+methodology takes much time rather than naive .
+takes much time rather than naive .
+takes much less rather methods .
+methodology takes much less rather than methods .
+the takes much less than naive methods .
+the methodology rather than naive methods .
+methodology takes much less time rather than naive .
+the methodology much less time rather than naive .
+methodology takes much less time rather naive methods .
+the takes less than naive methods .
+methodology takes much time than naive methods .
+the takes less time than naive methods .
+the methodology takes much less than naive methods .
+the methodology takes time rather than naive methods .
+the methodology takes less rather naive .
+methodology takes much less rather than naive methods .
+the methodology takes less time rather than naive methods .
+the methodology takes much time rather than naive methods .
+the methodology takes much less rather naive methods .
+takes much less time rather naive .
+the methodology takes much less time rather than naive .
+the methodology takes much less rather than naive methods .
+the methodology takes much less time than naive methods .
+the methodology much time rather than naive methods .
+the methodology takes much less than naive .
+the methodology time than methods .
+the takes much less time rather than methods .
+methodology takes much less rather than .
+the methodology takes much less time rather naive methods .
+the takes much less time than naive methods .
+the takes much less rather than methods .
+the takes much less time rather .
